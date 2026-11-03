@@ -1,0 +1,28 @@
+# Runtime, generated results and local tooling
+node_modules/
+generated/
+validation/
+*.log
+*.tap
+*.tmp
+*.cpuprofile
+*.heapprofile
+*.heapsnapshot
+*.zip
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Large official inputs: download and verify with npm run download
+data/dataset[3-7].txt
+
+# Local secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+credentials.json
+secrets.json
+.aws/

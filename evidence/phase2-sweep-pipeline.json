@@ -1,0 +1,86 @@
+{
+  "node": "v24.19.0",
+  "results": [
+    {
+      "repetition": 1,
+      "dataset": 1,
+      "algorithm": "sweep",
+      "totalMs": 58.8938,
+      "peakRssKiB": 49224,
+      "rssBytes": 50352128,
+      "events": 4
+    },
+    {
+      "repetition": 2,
+      "dataset": 1,
+      "algorithm": "sweep",
+      "totalMs": 61.03150000000001,
+      "peakRssKiB": 49264,
+      "rssBytes": 50511872,
+      "events": 4
+    },
+    {
+      "repetition": 3,
+      "dataset": 1,
+      "algorithm": "sweep",
+      "totalMs": 69.53430000000002,
+      "peakRssKiB": 49284,
+      "rssBytes": 50401280,
+      "events": 4
+    },
+    {
+      "repetition": 1,
+      "dataset": 2,
+      "algorithm": "sweep",
+      "totalMs": 155.82580000000002,
+      "peakRssKiB": 58064,
+      "rssBytes": 58294272,
+      "events": 6
+    },
+    {
+      "repetition": 2,
+      "dataset": 2,
+      "algorithm": "sweep",
+      "totalMs": 149.94369999999998,
+      "peakRssKiB": 58508,
+      "rssBytes": 57413632,
+      "events": 6
+    },
+    {
+      "repetition": 3,
+      "dataset": 2,
+      "algorithm": "sweep",
+      "totalMs": 159.1182,
+      "peakRssKiB": 58392,
+      "rssBytes": 57102336,
+      "events": 6
+    },
+    {
+      "repetition": 1,
+      "dataset": 3,
+      "algorithm": "sweep",
+      "totalMs": 454.07220000000007,
+      "peakRssKiB": 67704,
+      "rssBytes": 66428928,
+      "events": 10
+    },
+    {
+      "repetition": 2,
+      "dataset": 3,
+      "algorithm": "sweep",
+      "totalMs": 441.9953,
+      "peakRssKiB": 67536,
+      "rssBytes": 66207744,
+      "events": 10
+    },
+    {
+      "repetition": 3,
+      "dataset": 3,
+      "algorithm": "sweep",
+      "totalMs": 451.8693,
+      "peakRssKiB": 67432,
+      "rssBytes": 66121728,
+      "events": 10
+    }
+  ]
+}

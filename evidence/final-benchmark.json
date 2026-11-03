@@ -1,0 +1,258 @@
+{
+  "node": "v24.22.2",
+  "npm": "npm/11.19.1 node/v24.22.2 win32 x64 workspaces/false",
+  "platform": "win32",
+  "os": "10.0.26300",
+  "cpu": "Intel(R) Core(TM) Ultra 7 155H",
+  "logicalCpus": 22,
+  "totalMemoryBytes": 33837903872,
+  "repetitions": 3,
+  "method": "Optimized pipeline only, no profiling/hash inside timed region; isolated process per run; sequential runs; no cache clearing or explicit warmup; includes input reading/parsing/detection/JSON writing/sync/rename, excludes process startup and output hash verification. Peak RSS native process high-water mark.",
+  "results": [
+    {
+      "dataset": 1,
+      "trials": [
+        {
+          "trial": 1,
+          "dataset": 1,
+          "totalMs": 56.080799999999996,
+          "peakRssKiB": 52564,
+          "events": 4,
+          "sha256": "b90d1b753bb5cad0f33a8d6ca01c6500bdf271f37d55e952b622008a2703fa99"
+        },
+        {
+          "trial": 2,
+          "dataset": 1,
+          "totalMs": 46.1216,
+          "peakRssKiB": 51896,
+          "events": 4,
+          "sha256": "b90d1b753bb5cad0f33a8d6ca01c6500bdf271f37d55e952b622008a2703fa99"
+        },
+        {
+          "trial": 3,
+          "dataset": 1,
+          "totalMs": 54.38059999999999,
+          "peakRssKiB": 52112,
+          "events": 4,
+          "sha256": "b90d1b753bb5cad0f33a8d6ca01c6500bdf271f37d55e952b622008a2703fa99"
+        }
+      ],
+      "meanMs": 52.194333333333326,
+      "minMs": 46.1216,
+      "maxMs": 56.080799999999996,
+      "stddevMs": 4.349807475688496,
+      "peakRssKiB": 52564,
+      "events": 4
+    },
+    {
+      "dataset": 2,
+      "trials": [
+        {
+          "trial": 1,
+          "dataset": 2,
+          "totalMs": 155.4779,
+          "peakRssKiB": 60084,
+          "events": 6,
+          "sha256": "e550a77cf6b11f7df908ac414183c56c847e9aaf8776809dfa34dd5ad76c677c"
+        },
+        {
+          "trial": 2,
+          "dataset": 2,
+          "totalMs": 136.3601,
+          "peakRssKiB": 60792,
+          "events": 6,
+          "sha256": "e550a77cf6b11f7df908ac414183c56c847e9aaf8776809dfa34dd5ad76c677c"
+        },
+        {
+          "trial": 3,
+          "dataset": 2,
+          "totalMs": 130.17499999999998,
+          "peakRssKiB": 61496,
+          "events": 6,
+          "sha256": "e550a77cf6b11f7df908ac414183c56c847e9aaf8776809dfa34dd5ad76c677c"
+        }
+      ],
+      "meanMs": 140.67099999999996,
+      "minMs": 130.17499999999998,
+      "maxMs": 155.4779,
+      "stddevMs": 10.770239279607496,
+      "peakRssKiB": 61496,
+      "events": 6
+    },
+    {
+      "dataset": 3,
+      "trials": [
+        {
+          "trial": 1,
+          "dataset": 3,
+          "totalMs": 498.53229999999996,
+          "peakRssKiB": 68896,
+          "events": 10,
+          "sha256": "27cdc3c5719287341b05d7c07fa1b55487cbf08650d617ec6f51206ece9aaae3"
+        },
+        {
+          "trial": 2,
+          "dataset": 3,
+          "totalMs": 442.4215,
+          "peakRssKiB": 72996,
+          "events": 10,
+          "sha256": "27cdc3c5719287341b05d7c07fa1b55487cbf08650d617ec6f51206ece9aaae3"
+        },
+        {
+          "trial": 3,
+          "dataset": 3,
+          "totalMs": 421.008,
+          "peakRssKiB": 68868,
+          "events": 10,
+          "sha256": "27cdc3c5719287341b05d7c07fa1b55487cbf08650d617ec6f51206ece9aaae3"
+        }
+      ],
+      "meanMs": 453.9872666666667,
+      "minMs": 421.008,
+      "maxMs": 498.53229999999996,
+      "stddevMs": 32.68872885836271,
+      "peakRssKiB": 72996,
+      "events": 10
+    },
+    {
+      "dataset": 4,
+      "trials": [
+        {
+          "trial": 1,
+          "dataset": 4,
+          "totalMs": 1534.9989,
+          "peakRssKiB": 84904,
+          "events": 15,
+          "sha256": "449b5c0f300c9a246713b163c5c556b5a09594d326d9676628d30f30ccf614c2"
+        },
+        {
+          "trial": 2,
+          "dataset": 4,
+          "totalMs": 1508.0837000000001,
+          "peakRssKiB": 84944,
+          "events": 15,
+          "sha256": "449b5c0f300c9a246713b163c5c556b5a09594d326d9676628d30f30ccf614c2"
+        },
+        {
+          "trial": 3,
+          "dataset": 4,
+          "totalMs": 1467.3936,
+          "peakRssKiB": 84932,
+          "events": 15,
+          "sha256": "449b5c0f300c9a246713b163c5c556b5a09594d326d9676628d30f30ccf614c2"
+        }
+      ],
+      "meanMs": 1503.4920666666667,
+      "minMs": 1467.3936,
+      "maxMs": 1534.9989,
+      "stddevMs": 27.790063806132,
+      "peakRssKiB": 84944,
+      "events": 15
+    },
+    {
+      "dataset": 5,
+      "trials": [
+        {
+          "trial": 1,
+          "dataset": 5,
+          "totalMs": 4211.6416,
+          "peakRssKiB": 116772,
+          "events": 21,
+          "sha256": "df4588a2c0db2dd2dc4c4dc87498552e5547d4b71044e1346324db0bd90e0ac8"
+        },
+        {
+          "trial": 2,
+          "dataset": 5,
+          "totalMs": 4352.8123000000005,
+          "peakRssKiB": 116904,
+          "events": 21,
+          "sha256": "df4588a2c0db2dd2dc4c4dc87498552e5547d4b71044e1346324db0bd90e0ac8"
+        },
+        {
+          "trial": 3,
+          "dataset": 5,
+          "totalMs": 4447.3933,
+          "peakRssKiB": 119892,
+          "events": 21,
+          "sha256": "df4588a2c0db2dd2dc4c4dc87498552e5547d4b71044e1346324db0bd90e0ac8"
+        }
+      ],
+      "meanMs": 4337.2824,
+      "minMs": 4211.6416,
+      "maxMs": 4447.3933,
+      "stddevMs": 96.86966968984663,
+      "peakRssKiB": 119892,
+      "events": 21
+    },
+    {
+      "dataset": 6,
+      "trials": [
+        {
+          "trial": 1,
+          "dataset": 6,
+          "totalMs": 51594.7941,
+          "peakRssKiB": 174964,
+          "events": 27,
+          "sha256": "1b71d65ffee707d818d30b8767ad4a6883024494a9d27e0efe6c1a5053005201"
+        },
+        {
+          "trial": 2,
+          "dataset": 6,
+          "totalMs": 48510.3059,
+          "peakRssKiB": 175436,
+          "events": 27,
+          "sha256": "1b71d65ffee707d818d30b8767ad4a6883024494a9d27e0efe6c1a5053005201"
+        },
+        {
+          "trial": 3,
+          "dataset": 6,
+          "totalMs": 35845.7734,
+          "peakRssKiB": 175240,
+          "events": 27,
+          "sha256": "1b71d65ffee707d818d30b8767ad4a6883024494a9d27e0efe6c1a5053005201"
+        }
+      ],
+      "meanMs": 45316.957800000004,
+      "minMs": 35845.7734,
+      "maxMs": 51594.7941,
+      "stddevMs": 6814.4952035147035,
+      "peakRssKiB": 175436,
+      "events": 27
+    },
+    {
+      "dataset": 7,
+      "trials": [
+        {
+          "trial": 1,
+          "dataset": 7,
+          "totalMs": 29540.7751,
+          "peakRssKiB": 173636,
+          "events": 35,
+          "sha256": "325e3182d675bb4c77e75cc20cc3263cf88c06a8b0faace80f16d05152a44040"
+        },
+        {
+          "trial": 2,
+          "dataset": 7,
+          "totalMs": 22394.0673,
+          "peakRssKiB": 173348,
+          "events": 35,
+          "sha256": "325e3182d675bb4c77e75cc20cc3263cf88c06a8b0faace80f16d05152a44040"
+        },
+        {
+          "trial": 3,
+          "dataset": 7,
+          "totalMs": 24223.092099999998,
+          "peakRssKiB": 175068,
+          "events": 35,
+          "sha256": "325e3182d675bb4c77e75cc20cc3263cf88c06a8b0faace80f16d05152a44040"
+        }
+      ],
+      "meanMs": 25385.978166666664,
+      "minMs": 22394.0673,
+      "maxMs": 29540.7751,
+      "stddevMs": 3031.2908248996073,
+      "peakRssKiB": 175068,
+      "events": 35
+    }
+  ]
+}

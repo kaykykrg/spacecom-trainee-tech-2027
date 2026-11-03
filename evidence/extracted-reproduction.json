@@ -1,0 +1,177 @@
+{
+  "results": [
+    {
+      "dataset": 1,
+      "events": 4,
+      "totalMs": 28.977800000000002,
+      "peakRssKiB": 52892
+    },
+    {
+      "dataset": 2,
+      "events": 6,
+      "totalMs": 71.6809,
+      "peakRssKiB": 60928
+    },
+    {
+      "dataset": 3,
+      "events": 10,
+      "totalMs": 248.4974,
+      "peakRssKiB": 69728
+    },
+    {
+      "dataset": 4,
+      "events": 15,
+      "totalMs": 930.0248000000001,
+      "peakRssKiB": 87388
+    },
+    {
+      "dataset": 5,
+      "events": 21,
+      "totalMs": 2445.8271999999997,
+      "peakRssKiB": 120956
+    },
+    {
+      "dataset": 6,
+      "events": 27,
+      "totalMs": 18211.147699999998,
+      "peakRssKiB": 179428
+    },
+    {
+      "dataset": 7,
+      "events": 35,
+      "totalMs": 25717.590699999997,
+      "peakRssKiB": 179536
+    }
+  ],
+  "verification": {
+    "node": "v24.22.2",
+    "results": [
+      {
+        "dataset": 1,
+        "events": 4,
+        "byType": {
+          "generico": 2,
+          "faccao": 1,
+          "protetiva": 1
+        },
+        "bytes": 829,
+        "sha256": "b90d1b753bb5cad0f33a8d6ca01c6500bdf271f37d55e952b622008a2703fa99",
+        "schemaValid": true,
+        "duplicatePairs": 0,
+        "distanceRecomputationExact": true,
+        "independentSetMatches": true,
+        "sourceChecked": true,
+        "sourceRows": 8,
+        "inputSha256": "d0acb648ed0132cf562c944d19205477364fca035b0afef3526368e44b499bf4"
+      },
+      {
+        "dataset": 2,
+        "events": 6,
+        "byType": {
+          "generico": 3,
+          "faccao": 2,
+          "protetiva": 1
+        },
+        "bytes": 1256,
+        "sha256": "e550a77cf6b11f7df908ac414183c56c847e9aaf8776809dfa34dd5ad76c677c",
+        "schemaValid": true,
+        "duplicatePairs": 0,
+        "distanceRecomputationExact": true,
+        "independentSetMatches": true,
+        "sourceChecked": true,
+        "sourceRows": 12,
+        "inputSha256": "4f7664c55aa95b8211c25e3ceb2e7070af85b5f7057b3ee3663f6ccba63894f4"
+      },
+      {
+        "dataset": 3,
+        "events": 10,
+        "byType": {
+          "generico": 5,
+          "faccao": 3,
+          "protetiva": 2
+        },
+        "bytes": 2105,
+        "sha256": "27cdc3c5719287341b05d7c07fa1b55487cbf08650d617ec6f51206ece9aaae3",
+        "schemaValid": true,
+        "duplicatePairs": 0,
+        "distanceRecomputationExact": true,
+        "independentSetMatches": true,
+        "sourceChecked": true,
+        "sourceRows": 20,
+        "inputSha256": "92ba26909bb261153ae2e6c9ef1bfbb334ec3af3e5d6dd8dde7ea840d4fff37e"
+      },
+      {
+        "dataset": 4,
+        "events": 15,
+        "byType": {
+          "generico": 7,
+          "faccao": 5,
+          "protetiva": 3
+        },
+        "bytes": 3158,
+        "sha256": "449b5c0f300c9a246713b163c5c556b5a09594d326d9676628d30f30ccf614c2",
+        "schemaValid": true,
+        "duplicatePairs": 0,
+        "distanceRecomputationExact": true,
+        "independentSetMatches": true,
+        "sourceChecked": true,
+        "sourceRows": 30,
+        "inputSha256": "688d25fc705c43e83ed6b74548e3eb792358a457f612416a56809ed9924b76f2"
+      },
+      {
+        "dataset": 5,
+        "events": 21,
+        "byType": {
+          "generico": 10,
+          "faccao": 7,
+          "protetiva": 4
+        },
+        "bytes": 4422,
+        "sha256": "df4588a2c0db2dd2dc4c4dc87498552e5547d4b71044e1346324db0bd90e0ac8",
+        "schemaValid": true,
+        "duplicatePairs": 0,
+        "distanceRecomputationExact": true,
+        "independentSetMatches": true,
+        "sourceChecked": true,
+        "sourceRows": 42,
+        "inputSha256": "49f4fe601626f2cbc13d635cd5fdf25b1556ff08f71dc34c03fff08121a93288"
+      },
+      {
+        "dataset": 6,
+        "events": 27,
+        "byType": {
+          "generico": 12,
+          "faccao": 9,
+          "protetiva": 6
+        },
+        "bytes": 5687,
+        "sha256": "1b71d65ffee707d818d30b8767ad4a6883024494a9d27e0efe6c1a5053005201",
+        "schemaValid": true,
+        "duplicatePairs": 0,
+        "distanceRecomputationExact": true,
+        "independentSetMatches": true,
+        "sourceChecked": true,
+        "sourceRows": 54,
+        "inputSha256": "8cad2ac5bbd1821e5a39f86da88bcb71a3fdd7eb71148576d6aef3b120ec2241"
+      },
+      {
+        "dataset": 7,
+        "events": 35,
+        "byType": {
+          "generico": 15,
+          "faccao": 12,
+          "protetiva": 8
+        },
+        "bytes": 7392,
+        "sha256": "325e3182d675bb4c77e75cc20cc3263cf88c06a8b0faace80f16d05152a44040",
+        "schemaValid": true,
+        "duplicatePairs": 0,
+        "distanceRecomputationExact": true,
+        "independentSetMatches": true,
+        "sourceChecked": true,
+        "sourceRows": 70,
+        "inputSha256": "3f14094816efa87fe77cbbcf8cf5bd6df590329df9b6e67c3b08e5654a13a754"
+      }
+    ]
+  }
+}

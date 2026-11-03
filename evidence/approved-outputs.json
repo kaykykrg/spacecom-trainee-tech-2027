@@ -1,0 +1,44 @@
+[
+  {
+    "dataset": 1,
+    "file": "respostas1.json",
+    "bytes": 829,
+    "sha256": "b90d1b753bb5cad0f33a8d6ca01c6500bdf271f37d55e952b622008a2703fa99"
+  },
+  {
+    "dataset": 2,
+    "file": "respostas2.json",
+    "bytes": 1256,
+    "sha256": "e550a77cf6b11f7df908ac414183c56c847e9aaf8776809dfa34dd5ad76c677c"
+  },
+  {
+    "dataset": 3,
+    "file": "respostas3.json",
+    "bytes": 2105,
+    "sha256": "27cdc3c5719287341b05d7c07fa1b55487cbf08650d617ec6f51206ece9aaae3"
+  },
+  {
+    "dataset": 4,
+    "file": "respostas4.json",
+    "bytes": 3158,
+    "sha256": "449b5c0f300c9a246713b163c5c556b5a09594d326d9676628d30f30ccf614c2"
+  },
+  {
+    "dataset": 5,
+    "file": "respostas5.json",
+    "bytes": 4422,
+    "sha256": "df4588a2c0db2dd2dc4c4dc87498552e5547d4b71044e1346324db0bd90e0ac8"
+  },
+  {
+    "dataset": 6,
+    "file": "respostas6.json",
+    "bytes": 5687,
+    "sha256": "1b71d65ffee707d818d30b8767ad4a6883024494a9d27e0efe6c1a5053005201"
+  },
+  {
+    "dataset": 7,
+    "file": "respostas7.json",
+    "bytes": 7392,
+    "sha256": "325e3182d675bb4c77e75cc20cc3263cf88c06a8b0faace80f16d05152a44040"
+  }
+]

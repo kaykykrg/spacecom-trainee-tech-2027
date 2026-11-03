@@ -1,0 +1,79 @@
+[
+  {
+    "dataset": 1,
+    "pass": true,
+    "records": 5000,
+    "pairs": 22500,
+    "events": 4,
+    "missing": 0,
+    "extra": 0,
+    "classificationDifferences": 0,
+    "sha256": "b90d1b753bb5cad0f33a8d6ca01c6500bdf271f37d55e952b622008a2703fa99"
+  },
+  {
+    "dataset": 2,
+    "pass": true,
+    "records": 25000,
+    "pairs": 237500,
+    "events": 6,
+    "missing": 0,
+    "extra": 0,
+    "classificationDifferences": 0,
+    "sha256": "e550a77cf6b11f7df908ac414183c56c847e9aaf8776809dfa34dd5ad76c677c"
+  },
+  {
+    "dataset": 3,
+    "pass": true,
+    "records": 100000,
+    "pairs": 1950000,
+    "events": 10,
+    "missing": 0,
+    "extra": 0,
+    "classificationDifferences": 0,
+    "sha256": "27cdc3c5719287341b05d7c07fa1b55487cbf08650d617ec6f51206ece9aaae3"
+  },
+  {
+    "dataset": 4,
+    "pass": true,
+    "records": 400020,
+    "pairs": 11800590,
+    "events": 15,
+    "missing": 0,
+    "extra": 0,
+    "classificationDifferences": 0,
+    "sha256": "449b5c0f300c9a246713b163c5c556b5a09594d326d9676628d30f30ccf614c2"
+  },
+  {
+    "dataset": 5,
+    "pass": true,
+    "records": 1000000,
+    "pairs": 39500000,
+    "events": 21,
+    "missing": 0,
+    "extra": 0,
+    "classificationDifferences": 0,
+    "sha256": "df4588a2c0db2dd2dc4c4dc87498552e5547d4b71044e1346324db0bd90e0ac8"
+  },
+  {
+    "dataset": 6,
+    "pass": true,
+    "records": 8000000,
+    "pairs": 396000000,
+    "events": 27,
+    "missing": 0,
+    "extra": 0,
+    "classificationDifferences": 0,
+    "sha256": "1b71d65ffee707d818d30b8767ad4a6883024494a9d27e0efe6c1a5053005201"
+  },
+  {
+    "dataset": 7,
+    "pass": true,
+    "records": 12000000,
+    "pairs": 714000000,
+    "events": 35,
+    "missing": 0,
+    "extra": 0,
+    "classificationDifferences": 0,
+    "sha256": "325e3182d675bb4c77e75cc20cc3263cf88c06a8b0faace80f16d05152a44040"
+  }
+]

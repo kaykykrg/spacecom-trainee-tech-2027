@@ -1,0 +1,34 @@
+sequenceDiagram
+  participant cli as CLI
+  participant runner as Runner
+  participant writer as JSON writer
+  participant parser as Parser
+  participant sweep as Detector
+  participant rules as Classificador e Haversine
+  cli->>runner: input e output
+  runner->>writer: runDetector com sweep ou referência
+  writer->>writer: Abrir temporário exclusivo
+  loop Registros do input
+    writer->>parser: Solicitar próximo registro validado
+    parser->>parser: Validar calendário se timestamp mudou; validar demais campos sempre
+    parser-->>sweep: Registro
+    sweep->>sweep: Verificar ordem e agrupar timestamp
+    alt Janela completa ou EOF
+      sweep->>sweep: Verificar IDs e selecionar candidatos
+      loop Pares candidatos
+        sweep->>rules: Classificar e calcular Haversine se elegível
+        rules-->>sweep: Tipo e distância
+        alt Distância estritamente menor que 20 m
+          sweep-->>writer: Evento com coordenadas originais
+          writer->>writer: Aguardar escrita do evento
+        end
+      end
+    end
+  end
+  alt Sucesso
+    writer->>writer: Fechar array, sync, close e rename
+    writer-->>cli: Contagem e métricas em stderr
+  else Falha de leitura, validação ou escrita
+    writer->>writer: Fechar e remover temporário
+    writer-->>cli: Erro sem substituir saída anterior
+  end

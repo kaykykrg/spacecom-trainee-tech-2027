@@ -1,0 +1,24 @@
+{
+  "mode": "baseline",
+  "events": 35,
+  "totalMs": 24770.1265,
+  "peakRssKiB": 178036,
+  "wallMs": 24770.2574,
+  "cpuUserMs": 20594,
+  "cpuSystemMs": 3906,
+  "heapBefore": {
+    "rss": 50216960,
+    "heapTotal": 8962048,
+    "heapUsed": 6440168,
+    "external": 2479380,
+    "arrayBuffers": 143683
+  },
+  "memory": {
+    "rss": 182304768,
+    "heapTotal": 145014784,
+    "heapUsed": 53977592,
+    "external": 3419904,
+    "arrayBuffers": 1081961
+  },
+  "sha256": "325e3182d675bb4c77e75cc20cc3263cf88c06a8b0faace80f16d05152a44040"
+}

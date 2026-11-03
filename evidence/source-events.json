@@ -1,0 +1,3745 @@
+[
+  {
+    "dataset": 1,
+    "events": [
+      {
+        "key": "2024-01-01 00:05:15|4|6|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.33522817789823,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 4,
+            "faction": "",
+            "ts": "2024-01-01 00:05:15",
+            "lat": -31.93195,
+            "lon": -40.61438,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 635,
+            "raw": "4;;\"2024-01-01 00:05:15\";-31.93195;-40.61438;false;"
+          },
+          {
+            "id": 6,
+            "faction": "",
+            "ts": "2024-01-01 00:05:15",
+            "lat": -31.93187,
+            "lon": -40.61435,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 637,
+            "raw": "6;;\"2024-01-01 00:05:15\";-31.93187;-40.61435;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 00:10:20|3|5|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.882771981092958,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 3,
+            "faction": "",
+            "ts": "2024-01-01 00:10:20",
+            "lat": -28.28206,
+            "lon": -44.63511,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 1244,
+            "raw": "3;;\"2024-01-01 00:10:20\";-28.28206;-44.63511;false;"
+          },
+          {
+            "id": 5,
+            "faction": "",
+            "ts": "2024-01-01 00:10:20",
+            "lat": -28.28207,
+            "lon": -44.6352,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 1246,
+            "raw": "5;;\"2024-01-01 00:10:20\";-28.28207;-44.63520;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 00:16:45|9|10|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.941503149375345,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 9,
+            "faction": "",
+            "ts": "2024-01-01 00:16:45",
+            "lat": 1.83355,
+            "lon": -69.5461,
+            "victim": true,
+            "restrictions": [
+              10
+            ],
+            "lineNumber": 2020,
+            "raw": "9;;\"2024-01-01 00:16:45\";1.83355;-69.54610;true;\"10\""
+          },
+          {
+            "id": 10,
+            "faction": "",
+            "ts": "2024-01-01 00:16:45",
+            "lat": 1.83351,
+            "lon": -69.54618,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2021,
+            "raw": "10;;\"2024-01-01 00:16:45\";1.83351;-69.54618;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 00:36:00|7|8|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.895594131622975,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 7,
+            "faction": "1",
+            "ts": "2024-01-01 00:36:00",
+            "lat": -13.02054,
+            "lon": -46.40609,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 4328,
+            "raw": "7;1;\"2024-01-01 00:36:00\";-13.02054;-46.40609;false;"
+          },
+          {
+            "id": 8,
+            "faction": "1",
+            "ts": "2024-01-01 00:36:00",
+            "lat": -13.02046,
+            "lon": -46.40609,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 4329,
+            "raw": "8;1;\"2024-01-01 00:36:00\";-13.02046;-46.40609;false;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dataset": 2,
+    "events": [
+      {
+        "key": "2024-01-01 00:02:05|10|11|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.81640474094182,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 10,
+            "faction": "2",
+            "ts": "2024-01-01 00:02:05",
+            "lat": -14.62732,
+            "lon": -36.31859,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 511,
+            "raw": "10;2;\"2024-01-01 00:02:05\";-14.62732;-36.31859;false;"
+          },
+          {
+            "id": 11,
+            "faction": "2",
+            "ts": "2024-01-01 00:02:05",
+            "lat": -14.62731,
+            "lon": -36.31869,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 512,
+            "raw": "11;2;\"2024-01-01 00:02:05\";-14.62731;-36.31869;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 00:29:50|12|13|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.909619516337239,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 12,
+            "faction": "",
+            "ts": "2024-01-01 00:29:50",
+            "lat": -7.33193,
+            "lon": -65.9313,
+            "victim": true,
+            "restrictions": [
+              13
+            ],
+            "lineNumber": 7173,
+            "raw": "12;;\"2024-01-01 00:29:50\";-7.33193;-65.93130;true;\"13\""
+          },
+          {
+            "id": 13,
+            "faction": "",
+            "ts": "2024-01-01 00:29:50",
+            "lat": -7.33197,
+            "lon": -65.93137,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 7174,
+            "raw": "13;;\"2024-01-01 00:29:50\";-7.33197;-65.93137;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 00:35:55|3|19|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.205209934010645,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 3,
+            "faction": "",
+            "ts": "2024-01-01 00:35:55",
+            "lat": -25.99892,
+            "lon": -56.96696,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 8624,
+            "raw": "3;;\"2024-01-01 00:35:55\";-25.99892;-56.96696;false;"
+          },
+          {
+            "id": 19,
+            "faction": "",
+            "ts": "2024-01-01 00:35:55",
+            "lat": -25.99883,
+            "lon": -56.96694,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 8640,
+            "raw": "19;;\"2024-01-01 00:35:55\";-25.99883;-56.96694;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 00:43:35|6|7|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.349741643529189,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 6,
+            "faction": "",
+            "ts": "2024-01-01 00:43:35",
+            "lat": -15.03744,
+            "lon": -73.42167,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 10467,
+            "raw": "6;;\"2024-01-01 00:43:35\";-15.03744;-73.42167;false;"
+          },
+          {
+            "id": 7,
+            "faction": "",
+            "ts": "2024-01-01 00:43:35",
+            "lat": -15.03739,
+            "lon": -73.42174,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 10468,
+            "raw": "7;;\"2024-01-01 00:43:35\";-15.03739;-73.42174;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 01:26:30|4|5|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.811738897421028,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 4,
+            "faction": "",
+            "ts": "2024-01-01 01:26:30",
+            "lat": -29.13547,
+            "lon": -43.25292,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 20765,
+            "raw": "4;;\"2024-01-01 01:26:30\";-29.13547;-43.25292;false;"
+          },
+          {
+            "id": 5,
+            "faction": "",
+            "ts": "2024-01-01 01:26:30",
+            "lat": -29.13546,
+            "lon": -43.25301,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 20766,
+            "raw": "5;;\"2024-01-01 01:26:30\";-29.13546;-43.25301;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 01:43:00|8|9|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.892813491126276,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 8,
+            "faction": "1",
+            "ts": "2024-01-01 01:43:00",
+            "lat": -14.77075,
+            "lon": -55.87742,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 24729,
+            "raw": "8;1;\"2024-01-01 01:43:00\";-14.77075;-55.87742;false;"
+          },
+          {
+            "id": 9,
+            "faction": "1",
+            "ts": "2024-01-01 01:43:00",
+            "lat": -14.77068,
+            "lon": -55.87738,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 24730,
+            "raw": "9;1;\"2024-01-01 01:43:00\";-14.77068;-55.87738;false;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dataset": 3,
+    "events": [
+      {
+        "key": "2024-01-01 00:48:10|10|17|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.053893258980052,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 10,
+            "faction": "",
+            "ts": "2024-01-01 00:48:10",
+            "lat": -21.52255,
+            "lon": -59.92879,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 23131,
+            "raw": "10;;\"2024-01-01 00:48:10\";-21.52255;-59.92879;false;"
+          },
+          {
+            "id": 17,
+            "faction": "",
+            "ts": "2024-01-01 00:48:10",
+            "lat": -21.52262,
+            "lon": -59.92881,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 23138,
+            "raw": "17;;\"2024-01-01 00:48:10\";-21.52262;-59.92881;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 01:00:30|28|31|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 12.865565240118274,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 28,
+            "faction": "",
+            "ts": "2024-01-01 01:00:30",
+            "lat": -14.0732,
+            "lon": -36.54266,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 29069,
+            "raw": "28;;\"2024-01-01 01:00:30\";-14.07320;-36.54266;false;"
+          },
+          {
+            "id": 31,
+            "faction": "",
+            "ts": "2024-01-01 01:00:30",
+            "lat": -14.0733,
+            "lon": -36.5426,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 29072,
+            "raw": "31;;\"2024-01-01 01:00:30\";-14.07330;-36.54260;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 01:00:35|28|31|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.699951454703939,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 28,
+            "faction": "",
+            "ts": "2024-01-01 01:00:35",
+            "lat": -14.07323,
+            "lon": -36.54253,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 29109,
+            "raw": "28;;\"2024-01-01 01:00:35\";-14.07323;-36.54253;false;"
+          },
+          {
+            "id": 31,
+            "faction": "",
+            "ts": "2024-01-01 01:00:35",
+            "lat": -14.07324,
+            "lon": -36.54245,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 29112,
+            "raw": "31;;\"2024-01-01 01:00:35\";-14.07324;-36.54245;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 01:00:40|28|31|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 13.301034510696576,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 28,
+            "faction": "",
+            "ts": "2024-01-01 01:00:40",
+            "lat": -14.07326,
+            "lon": -36.5424,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 29149,
+            "raw": "28;;\"2024-01-01 01:00:40\";-14.07326;-36.54240;false;"
+          },
+          {
+            "id": 31,
+            "faction": "",
+            "ts": "2024-01-01 01:00:40",
+            "lat": -14.07319,
+            "lon": -36.5423,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 29152,
+            "raw": "31;;\"2024-01-01 01:00:40\";-14.07319;-36.54230;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 01:05:15|35|38|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.964293240456625,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 35,
+            "faction": "3",
+            "ts": "2024-01-01 01:05:15",
+            "lat": -5.02154,
+            "lon": -37.54172,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 31356,
+            "raw": "35;3;\"2024-01-01 01:05:15\";-5.02154;-37.54172;false;"
+          },
+          {
+            "id": 38,
+            "faction": "3",
+            "ts": "2024-01-01 01:05:15",
+            "lat": -5.02146,
+            "lon": -37.54171,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 31359,
+            "raw": "38;3;\"2024-01-01 01:05:15\";-5.02146;-37.54171;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 02:03:50|4|19|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 11.291419868951346,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 4,
+            "faction": "2",
+            "ts": "2024-01-01 02:03:50",
+            "lat": -28.0367,
+            "lon": -55.67506,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 59445,
+            "raw": "4;2;\"2024-01-01 02:03:50\";-28.03670;-55.67506;false;"
+          },
+          {
+            "id": 19,
+            "faction": "2",
+            "ts": "2024-01-01 02:03:50",
+            "lat": -28.0366,
+            "lon": -55.67504,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 59460,
+            "raw": "19;2;\"2024-01-01 02:03:50\";-28.03660;-55.67504;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 02:21:55|11|39|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 11.532319108677992,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 11,
+            "faction": "",
+            "ts": "2024-01-01 02:21:55",
+            "lat": -23.5511,
+            "lon": -53.81399,
+            "victim": true,
+            "restrictions": [
+              39
+            ],
+            "lineNumber": 68132,
+            "raw": "11;;\"2024-01-01 02:21:55\";-23.55110;-53.81399;true;\"39\""
+          },
+          {
+            "id": 39,
+            "faction": "",
+            "ts": "2024-01-01 02:21:55",
+            "lat": -23.5512,
+            "lon": -53.81402,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 68160,
+            "raw": "39;;\"2024-01-01 02:21:55\";-23.55120;-53.81402;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 02:39:45|5|14|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.250959593760571,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 5,
+            "faction": "",
+            "ts": "2024-01-01 02:39:45",
+            "lat": -31.96766,
+            "lon": -48.43386,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 76686,
+            "raw": "5;;\"2024-01-01 02:39:45\";-31.96766;-48.43386;false;"
+          },
+          {
+            "id": 14,
+            "faction": "",
+            "ts": "2024-01-01 02:39:45",
+            "lat": -31.96763,
+            "lon": -48.43378,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 76695,
+            "raw": "14;;\"2024-01-01 02:39:45\";-31.96763;-48.43378;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 03:01:25|15|16|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.764204996492433,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 15,
+            "faction": "",
+            "ts": "2024-01-01 03:01:25",
+            "lat": -18.26761,
+            "lon": -70.951,
+            "victim": true,
+            "restrictions": [
+              16
+            ],
+            "lineNumber": 87096,
+            "raw": "15;;\"2024-01-01 03:01:25\";-18.26761;-70.95100;true;\"16\""
+          },
+          {
+            "id": 16,
+            "faction": "",
+            "ts": "2024-01-01 03:01:25",
+            "lat": -18.26755,
+            "lon": -70.95108,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 87097,
+            "raw": "16;;\"2024-01-01 03:01:25\";-18.26755;-70.95108;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 03:25:15|9|20|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.41381477286255,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 9,
+            "faction": "1",
+            "ts": "2024-01-01 03:25:15",
+            "lat": -22.57215,
+            "lon": -68.37816,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 98530,
+            "raw": "9;1;\"2024-01-01 03:25:15\";-22.57215;-68.37816;false;"
+          },
+          {
+            "id": 20,
+            "faction": "1",
+            "ts": "2024-01-01 03:25:15",
+            "lat": -22.57223,
+            "lon": -68.37819,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 98541,
+            "raw": "20;1;\"2024-01-01 03:25:15\";-22.57223;-68.37819;false;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dataset": 4,
+    "events": [
+      {
+        "key": "2024-01-01 01:05:05|37|48|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.90957111809784,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 37,
+            "faction": "",
+            "ts": "2024-01-01 01:05:05",
+            "lat": -10.9585,
+            "lon": -49.74688,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 46898,
+            "raw": "37;;\"2024-01-01 01:05:05\";-10.95850;-49.74688;false;"
+          },
+          {
+            "id": 48,
+            "faction": "",
+            "ts": "2024-01-01 01:05:05",
+            "lat": -10.95842,
+            "lon": -49.74692,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 46909,
+            "raw": "48;;\"2024-01-01 01:05:05\";-10.95842;-49.74692;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 01:19:45|49|50|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.485804039506823,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 49,
+            "faction": "4",
+            "ts": "2024-01-01 01:19:45",
+            "lat": -3.09805,
+            "lon": -69.94813,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 57470,
+            "raw": "49;4;\"2024-01-01 01:19:45\";-3.09805;-69.94813;false;"
+          },
+          {
+            "id": 50,
+            "faction": "4",
+            "ts": "2024-01-01 01:19:45",
+            "lat": -3.09813,
+            "lon": -69.94808,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 57471,
+            "raw": "50;4;\"2024-01-01 01:19:45\";-3.09813;-69.94808;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 02:03:15|31|43|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.584413373886987,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 31,
+            "faction": "",
+            "ts": "2024-01-01 02:03:15",
+            "lat": -18.80665,
+            "lon": -41.26235,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 88772,
+            "raw": "31;;\"2024-01-01 02:03:15\";-18.80665;-41.26235;false;"
+          },
+          {
+            "id": 43,
+            "faction": "",
+            "ts": "2024-01-01 02:03:15",
+            "lat": -18.80666,
+            "lon": -41.26225,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 88784,
+            "raw": "43;;\"2024-01-01 02:03:15\";-18.80666;-41.26225;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 02:20:05|12|42|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.379186039299068,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 12,
+            "faction": "",
+            "ts": "2024-01-01 02:20:05",
+            "lat": -24.42753,
+            "lon": -54.74827,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 100873,
+            "raw": "12;;\"2024-01-01 02:20:05\";-24.42753;-54.74827;false;"
+          },
+          {
+            "id": 42,
+            "faction": "",
+            "ts": "2024-01-01 02:20:05",
+            "lat": -24.42755,
+            "lon": -54.74836,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 100903,
+            "raw": "42;;\"2024-01-01 02:20:05\";-24.42755;-54.74836;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 02:44:25|11|56|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.95043194151789,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 11,
+            "faction": "",
+            "ts": "2024-01-01 02:44:25",
+            "lat": -27.16895,
+            "lon": -61.5787,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 118392,
+            "raw": "11;;\"2024-01-01 02:44:25\";-27.16895;-61.57870;false;"
+          },
+          {
+            "id": 56,
+            "faction": "",
+            "ts": "2024-01-01 02:44:25",
+            "lat": -27.16903,
+            "lon": -61.57869,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 118437,
+            "raw": "56;;\"2024-01-01 02:44:25\";-27.16903;-61.57869;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 02:53:55|13|15|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.390193621744167,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 13,
+            "faction": "5",
+            "ts": "2024-01-01 02:53:55",
+            "lat": -25.64088,
+            "lon": -52.14046,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 125234,
+            "raw": "13;5;\"2024-01-01 02:53:55\";-25.64088;-52.14046;false;"
+          },
+          {
+            "id": 15,
+            "faction": "5",
+            "ts": "2024-01-01 02:53:55",
+            "lat": -25.6408,
+            "lon": -52.14043,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 125236,
+            "raw": "15;5;\"2024-01-01 02:53:55\";-25.64080;-52.14043;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 04:22:10|29|36|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 12.3752555456295,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 29,
+            "faction": "",
+            "ts": "2024-01-01 04:22:10",
+            "lat": -14.73056,
+            "lon": -50.20311,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 188790,
+            "raw": "29;;\"2024-01-01 04:22:10\";-14.73056;-50.20311;false;"
+          },
+          {
+            "id": 36,
+            "faction": "",
+            "ts": "2024-01-01 04:22:10",
+            "lat": -14.73048,
+            "lon": -50.20303,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 188797,
+            "raw": "36;;\"2024-01-01 04:22:10\";-14.73048;-50.20303;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 04:58:20|4|5|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.947275971744366,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 4,
+            "faction": "",
+            "ts": "2024-01-01 04:58:20",
+            "lat": -30.27597,
+            "lon": -57.72789,
+            "victim": true,
+            "restrictions": [
+              5
+            ],
+            "lineNumber": 214805,
+            "raw": "4;;\"2024-01-01 04:58:20\";-30.27597;-57.72789;true;\"5\""
+          },
+          {
+            "id": 5,
+            "faction": "",
+            "ts": "2024-01-01 04:58:20",
+            "lat": -30.27589,
+            "lon": -57.7279,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 214806,
+            "raw": "5;;\"2024-01-01 04:58:20\";-30.27589;-57.72790;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 05:26:35|1|35|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 12.568547435154343,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 1,
+            "faction": "",
+            "ts": "2024-01-01 05:26:35",
+            "lat": -29.44372,
+            "lon": -71.74709,
+            "victim": true,
+            "restrictions": [
+              35
+            ],
+            "lineNumber": 235142,
+            "raw": "1;;\"2024-01-01 05:26:35\";-29.44372;-71.74709;true;\"35\""
+          },
+          {
+            "id": 35,
+            "faction": "",
+            "ts": "2024-01-01 05:26:35",
+            "lat": -29.44378,
+            "lon": -71.7472,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 235176,
+            "raw": "35;;\"2024-01-01 05:26:35\";-29.44378;-71.74720;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 06:01:10|47|54|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 12.009843357409622,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 47,
+            "faction": "1",
+            "ts": "2024-01-01 06:01:10",
+            "lat": -5.61486,
+            "lon": -41.42829,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 260088,
+            "raw": "47;1;\"2024-01-01 06:01:10\";-5.61486;-41.42829;false;"
+          },
+          {
+            "id": 54,
+            "faction": "1",
+            "ts": "2024-01-01 06:01:10",
+            "lat": -5.61495,
+            "lon": -41.42835,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 260095,
+            "raw": "54;1;\"2024-01-01 06:01:10\";-5.61495;-41.42835;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 06:01:20|19|25|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 11.37967502493859,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 19,
+            "faction": "2",
+            "ts": "2024-01-01 06:01:20",
+            "lat": -19.61151,
+            "lon": -62.73817,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 260180,
+            "raw": "19;2;\"2024-01-01 06:01:20\";-19.61151;-62.73817;false;"
+          },
+          {
+            "id": 25,
+            "faction": "2",
+            "ts": "2024-01-01 06:01:20",
+            "lat": -19.61155,
+            "lon": -62.73827,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 260186,
+            "raw": "25;2;\"2024-01-01 06:01:20\";-19.61155;-62.73827;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 06:19:10|51|52|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.007543397977084,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 51,
+            "faction": "3",
+            "ts": "2024-01-01 06:19:10",
+            "lat": -3.5721,
+            "lon": -59.98089,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 273052,
+            "raw": "51;3;\"2024-01-01 06:19:10\";-3.57210;-59.98089;false;"
+          },
+          {
+            "id": 52,
+            "faction": "3",
+            "ts": "2024-01-01 06:19:10",
+            "lat": -3.57201,
+            "lon": -59.98089,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 273053,
+            "raw": "52;3;\"2024-01-01 06:19:10\";-3.57201;-59.98089;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 07:16:40|14|26|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 12.004680970729677,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 14,
+            "faction": "",
+            "ts": "2024-01-01 07:16:40",
+            "lat": -26.38803,
+            "lon": -47.57057,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 314415,
+            "raw": "14;;\"2024-01-01 07:16:40\";-26.38803;-47.57057;false;"
+          },
+          {
+            "id": 26,
+            "faction": "",
+            "ts": "2024-01-01 07:16:40",
+            "lat": -26.38802,
+            "lon": -47.57045,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 314427,
+            "raw": "26;;\"2024-01-01 07:16:40\";-26.38802;-47.57045;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 07:23:40|2|38|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.660623718777892,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 2,
+            "faction": "",
+            "ts": "2024-01-01 07:23:40",
+            "lat": -32.10152,
+            "lon": -66.69814,
+            "victim": true,
+            "restrictions": [
+              38
+            ],
+            "lineNumber": 319443,
+            "raw": "2;;\"2024-01-01 07:23:40\";-32.10152;-66.69814;true;\"38\""
+          },
+          {
+            "id": 38,
+            "faction": "",
+            "ts": "2024-01-01 07:23:40",
+            "lat": -32.10144,
+            "lon": -66.69818,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 319479,
+            "raw": "38;;\"2024-01-01 07:23:40\";-32.10144;-66.69818;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 08:41:00|3|6|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 11.625864089876893,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 3,
+            "faction": "",
+            "ts": "2024-01-01 08:41:00",
+            "lat": -32.70574,
+            "lon": -62.88103,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 375124,
+            "raw": "3;;\"2024-01-01 08:41:00\";-32.70574;-62.88103;false;"
+          },
+          {
+            "id": 6,
+            "faction": "",
+            "ts": "2024-01-01 08:41:00",
+            "lat": -32.70566,
+            "lon": -62.88095,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 375127,
+            "raw": "6;;\"2024-01-01 08:41:00\";-32.70566;-62.88095;false;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dataset": 5,
+    "events": [
+      {
+        "key": "2024-01-01 00:22:45|6|51|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.006044998395272,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 6,
+            "faction": "",
+            "ts": "2024-01-01 00:22:45",
+            "lat": -32.58057,
+            "lon": -51.81935,
+            "victim": true,
+            "restrictions": [
+              51
+            ],
+            "lineNumber": 21847,
+            "raw": "6;;\"2024-01-01 00:22:45\";-32.58057;-51.81935;true;\"51\""
+          },
+          {
+            "id": 51,
+            "faction": "",
+            "ts": "2024-01-01 00:22:45",
+            "lat": -32.58064,
+            "lon": -51.81937,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 21892,
+            "raw": "51;;\"2024-01-01 00:22:45\";-32.58064;-51.81937;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 00:59:00|33|62|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 11.577409325569727,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 33,
+            "faction": "3",
+            "ts": "2024-01-01 00:59:00",
+            "lat": -17.83025,
+            "lon": -51.9055,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 56674,
+            "raw": "33;3;\"2024-01-01 00:59:00\";-17.83025;-51.90550;false;"
+          },
+          {
+            "id": 62,
+            "faction": "3",
+            "ts": "2024-01-01 00:59:00",
+            "lat": -17.83033,
+            "lon": -51.90543,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 56703,
+            "raw": "62;3;\"2024-01-01 00:59:00\";-17.83033;-51.90543;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 01:03:15|43|44|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.749550811590227,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 43,
+            "faction": "",
+            "ts": "2024-01-01 01:03:15",
+            "lat": -14.52983,
+            "lon": -44.92761,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 60764,
+            "raw": "43;;\"2024-01-01 01:03:15\";-14.52983;-44.92761;false;"
+          },
+          {
+            "id": 44,
+            "faction": "",
+            "ts": "2024-01-01 01:03:15",
+            "lat": -14.52979,
+            "lon": -44.92768,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 60765,
+            "raw": "44;;\"2024-01-01 01:03:15\";-14.52979;-44.92768;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 02:20:25|47|48|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.241967476763488,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 47,
+            "faction": "",
+            "ts": "2024-01-01 02:20:25",
+            "lat": -11.56416,
+            "lon": -68.69584,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 134848,
+            "raw": "47;;\"2024-01-01 02:20:25\";-11.56416;-68.69584;false;"
+          },
+          {
+            "id": 48,
+            "faction": "",
+            "ts": "2024-01-01 02:20:25",
+            "lat": -11.56425,
+            "lon": -68.69586,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 134849,
+            "raw": "48;;\"2024-01-01 02:20:25\";-11.56425;-68.69586;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 02:35:15|24|26|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 11.185045419160305,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 24,
+            "faction": "7",
+            "ts": "2024-01-01 02:35:15",
+            "lat": -22.63966,
+            "lon": -51.98372,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 149065,
+            "raw": "24;7;\"2024-01-01 02:35:15\";-22.63966;-51.98372;false;"
+          },
+          {
+            "id": 26,
+            "faction": "7",
+            "ts": "2024-01-01 02:35:15",
+            "lat": -22.6397,
+            "lon": -51.98362,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 149067,
+            "raw": "26;7;\"2024-01-01 02:35:15\";-22.63970;-51.98362;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 04:15:30|20|77|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.895594131227933,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 20,
+            "faction": "",
+            "ts": "2024-01-01 04:15:30",
+            "lat": -22.48363,
+            "lon": -68.39969,
+            "victim": true,
+            "restrictions": [
+              77
+            ],
+            "lineNumber": 245301,
+            "raw": "20;;\"2024-01-01 04:15:30\";-22.48363;-68.39969;true;\"77\""
+          },
+          {
+            "id": 77,
+            "faction": "",
+            "ts": "2024-01-01 04:15:30",
+            "lat": -22.48371,
+            "lon": -68.39969,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 245358,
+            "raw": "77;;\"2024-01-01 04:15:30\";-22.48371;-68.39969;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 05:03:15|41|52|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.45577698347823,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 41,
+            "faction": "",
+            "ts": "2024-01-01 05:03:15",
+            "lat": -16.02235,
+            "lon": -56.00332,
+            "victim": true,
+            "restrictions": [
+              52
+            ],
+            "lineNumber": 291162,
+            "raw": "41;;\"2024-01-01 05:03:15\";-16.02235;-56.00332;true;\"52\""
+          },
+          {
+            "id": 52,
+            "faction": "",
+            "ts": "2024-01-01 05:03:15",
+            "lat": -16.02243,
+            "lon": -56.00329,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 291173,
+            "raw": "52;;\"2024-01-01 05:03:15\";-16.02243;-56.00329;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 06:56:20|16|45|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.19504917844975,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 16,
+            "faction": "",
+            "ts": "2024-01-01 06:56:20",
+            "lat": -28.93402,
+            "lon": -46.42975,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 399697,
+            "raw": "16;;\"2024-01-01 06:56:20\";-28.93402;-46.42975;false;"
+          },
+          {
+            "id": 45,
+            "faction": "",
+            "ts": "2024-01-01 06:56:20",
+            "lat": -28.93411,
+            "lon": -46.42973,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 399726,
+            "raw": "45;;\"2024-01-01 06:56:20\";-28.93411;-46.42973;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 07:15:20|38|39|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 11.323659275391785,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 38,
+            "faction": "5",
+            "ts": "2024-01-01 07:15:20",
+            "lat": -15.7318,
+            "lon": -68.18605,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 417959,
+            "raw": "38;5;\"2024-01-01 07:15:20\";-15.73180;-68.18605;false;"
+          },
+          {
+            "id": 39,
+            "faction": "5",
+            "ts": "2024-01-01 07:15:20",
+            "lat": -15.7319,
+            "lon": -68.18607,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 417960,
+            "raw": "39;5;\"2024-01-01 07:15:20\";-15.73190;-68.18607;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 07:58:35|46|50|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.043558663833442,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 46,
+            "faction": "1",
+            "ts": "2024-01-01 07:58:35",
+            "lat": -11.85048,
+            "lon": -69.79712,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 459487,
+            "raw": "46;1;\"2024-01-01 07:58:35\";-11.85048;-69.79712;false;"
+          },
+          {
+            "id": 50,
+            "faction": "1",
+            "ts": "2024-01-01 07:58:35",
+            "lat": -11.8505,
+            "lon": -69.79721,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 459491,
+            "raw": "50;1;\"2024-01-01 07:58:35\";-11.85050;-69.79721;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 08:52:20|25|49|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.452296445204528,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 25,
+            "faction": "",
+            "ts": "2024-01-01 08:52:20",
+            "lat": -22.57241,
+            "lon": -46.08515,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 511066,
+            "raw": "25;;\"2024-01-01 08:52:20\";-22.57241;-46.08515;false;"
+          },
+          {
+            "id": 49,
+            "faction": "",
+            "ts": "2024-01-01 08:52:20",
+            "lat": -22.57245,
+            "lon": -46.08508,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 511090,
+            "raw": "49;;\"2024-01-01 08:52:20\";-22.57245;-46.08508;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 08:59:15|37|70|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.996179748412706,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 37,
+            "faction": "",
+            "ts": "2024-01-01 08:59:15",
+            "lat": -14.42494,
+            "lon": -70.77685,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 517718,
+            "raw": "37;;\"2024-01-01 08:59:15\";-14.42494;-70.77685;false;"
+          },
+          {
+            "id": 70,
+            "faction": "",
+            "ts": "2024-01-01 08:59:15",
+            "lat": -14.42496,
+            "lon": -70.77695,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 517751,
+            "raw": "70;;\"2024-01-01 08:59:15\";-14.42496;-70.77695;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 09:14:25|18|72|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.429226322640863,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 18,
+            "faction": "2",
+            "ts": "2024-01-01 09:14:25",
+            "lat": -28.35509,
+            "lon": -35.55956,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 532259,
+            "raw": "18;2;\"2024-01-01 09:14:25\";-28.35509;-35.55956;false;"
+          },
+          {
+            "id": 72,
+            "faction": "2",
+            "ts": "2024-01-01 09:14:25",
+            "lat": -28.35518,
+            "lon": -35.55953,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 532313,
+            "raw": "72;2;\"2024-01-01 09:14:25\";-28.35518;-35.55953;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 09:38:35|1|31|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.092804770497741,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 1,
+            "faction": "",
+            "ts": "2024-01-01 09:38:35",
+            "lat": -32.12087,
+            "lon": -72.17273,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 555442,
+            "raw": "1;;\"2024-01-01 09:38:35\";-32.12087;-72.17273;false;"
+          },
+          {
+            "id": 31,
+            "faction": "",
+            "ts": "2024-01-01 09:38:35",
+            "lat": -32.12095,
+            "lon": -72.17275,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 555472,
+            "raw": "31;;\"2024-01-01 09:38:35\";-32.12095;-72.17275;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 11:20:55|66|68|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 11.339423219071161,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 66,
+            "faction": "",
+            "ts": "2024-01-01 11:20:55",
+            "lat": -0.40974,
+            "lon": -63.27582,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 653747,
+            "raw": "66;;\"2024-01-01 11:20:55\";-0.40974;-63.27582;false;"
+          },
+          {
+            "id": 68,
+            "faction": "",
+            "ts": "2024-01-01 11:20:55",
+            "lat": -0.40972,
+            "lon": -63.27592,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 653749,
+            "raw": "68;;\"2024-01-01 11:20:55\";-0.40972;-63.27592;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 11:45:00|67|69|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.06894052046132,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 67,
+            "faction": "",
+            "ts": "2024-01-01 11:45:00",
+            "lat": -3.17494,
+            "lon": -56.6931,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 676868,
+            "raw": "67;;\"2024-01-01 11:45:00\";-3.17494;-56.69310;false;"
+          },
+          {
+            "id": 69,
+            "faction": "",
+            "ts": "2024-01-01 11:45:00",
+            "lat": -3.17503,
+            "lon": -56.69309,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 676870,
+            "raw": "69;;\"2024-01-01 11:45:00\";-3.17503;-56.69309;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 13:18:30|7|53|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.01481252562926,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 7,
+            "faction": "",
+            "ts": "2024-01-01 13:18:30",
+            "lat": -31.87289,
+            "lon": -47.66976,
+            "victim": true,
+            "restrictions": [
+              53
+            ],
+            "lineNumber": 766568,
+            "raw": "7;;\"2024-01-01 13:18:30\";-31.87289;-47.66976;true;\"53\""
+          },
+          {
+            "id": 53,
+            "faction": "",
+            "ts": "2024-01-01 13:18:30",
+            "lat": -31.87292,
+            "lon": -47.66986,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 766614,
+            "raw": "53;;\"2024-01-01 13:18:30\";-31.87292;-47.66986;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 14:48:15|3|71|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.29804502807106,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 3,
+            "faction": "6",
+            "ts": "2024-01-01 14:48:15",
+            "lat": -30.43498,
+            "lon": -63.05563,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 852724,
+            "raw": "3;6;\"2024-01-01 14:48:15\";-30.43498;-63.05563;false;"
+          },
+          {
+            "id": 71,
+            "faction": "6",
+            "ts": "2024-01-01 14:48:15",
+            "lat": -30.43505,
+            "lon": -63.05566,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 852792,
+            "raw": "71;6;\"2024-01-01 14:48:15\";-30.43505;-63.05566;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 15:50:15|42|65|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 12.20162707434667,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 42,
+            "faction": "",
+            "ts": "2024-01-01 15:50:15",
+            "lat": -12.37,
+            "lon": -51.57264,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 912283,
+            "raw": "42;;\"2024-01-01 15:50:15\";-12.37000;-51.57264;false;"
+          },
+          {
+            "id": 65,
+            "faction": "",
+            "ts": "2024-01-01 15:50:15",
+            "lat": -12.36995,
+            "lon": -51.57254,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 912306,
+            "raw": "65;;\"2024-01-01 15:50:15\";-12.36995;-51.57254;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 16:23:20|21|40|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.573281484356947,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 21,
+            "faction": "4",
+            "ts": "2024-01-01 16:23:20",
+            "lat": -23.16574,
+            "lon": -64.89377,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 944022,
+            "raw": "21;4;\"2024-01-01 16:23:20\";-23.16574;-64.89377;false;"
+          },
+          {
+            "id": 40,
+            "faction": "4",
+            "ts": "2024-01-01 16:23:20",
+            "lat": -23.16567,
+            "lon": -64.8937,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 944041,
+            "raw": "40;4;\"2024-01-01 16:23:20\";-23.16567;-64.89370;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 16:38:45|57|61|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.4368244577312,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 57,
+            "faction": "",
+            "ts": "2024-01-01 16:38:45",
+            "lat": -5.38197,
+            "lon": -63.19776,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 958858,
+            "raw": "57;;\"2024-01-01 16:38:45\";-5.38197;-63.19776;false;"
+          },
+          {
+            "id": 61,
+            "faction": "",
+            "ts": "2024-01-01 16:38:45",
+            "lat": -5.382,
+            "lon": -63.19783,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 958862,
+            "raw": "61;;\"2024-01-01 16:38:45\";-5.38200;-63.19783;false;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dataset": 6,
+    "events": [
+      {
+        "key": "2024-01-01 02:11:35|8|9|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.781196647454442,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 8,
+            "faction": "",
+            "ts": "2024-01-01 02:11:35",
+            "lat": -30.40416,
+            "lon": -43.0094,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 157909,
+            "raw": "8;;\"2024-01-01 02:11:35\";-30.40416;-43.00940;false;"
+          },
+          {
+            "id": 9,
+            "faction": "",
+            "ts": "2024-01-01 02:11:35",
+            "lat": -30.40418,
+            "lon": -43.00929,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 157910,
+            "raw": "9;;\"2024-01-01 02:11:35\";-30.40418;-43.00929;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 02:38:50|17|18|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 11.162702991056463,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 17,
+            "faction": "1",
+            "ts": "2024-01-01 02:38:50",
+            "lat": -28.06129,
+            "lon": -48.56012,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 190618,
+            "raw": "17;1;\"2024-01-01 02:38:50\";-28.06129;-48.56012;false;"
+          },
+          {
+            "id": 18,
+            "faction": "1",
+            "ts": "2024-01-01 02:38:50",
+            "lat": -28.06119,
+            "lon": -48.56011,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 190619,
+            "raw": "18;1;\"2024-01-01 02:38:50\";-28.06119;-48.56011;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 04:45:10|36|62|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.481835697371654,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 36,
+            "faction": "2",
+            "ts": "2024-01-01 04:45:10",
+            "lat": -20.85178,
+            "lon": -50.75814,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 342237,
+            "raw": "36;2;\"2024-01-01 04:45:10\";-20.85178;-50.75814;false;"
+          },
+          {
+            "id": 62,
+            "faction": "2",
+            "ts": "2024-01-01 04:45:10",
+            "lat": -20.85187,
+            "lon": -50.75817,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 342263,
+            "raw": "62;2;\"2024-01-01 04:45:10\";-20.85187;-50.75817;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 05:30:20|6|11|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.249389946424516,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 6,
+            "faction": "",
+            "ts": "2024-01-01 05:30:20",
+            "lat": -31.0527,
+            "lon": -51.20626,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 396407,
+            "raw": "6;;\"2024-01-01 05:30:20\";-31.05270;-51.20626;false;"
+          },
+          {
+            "id": 11,
+            "faction": "",
+            "ts": "2024-01-01 05:30:20",
+            "lat": -31.05263,
+            "lon": -51.20619,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 396412,
+            "raw": "11;;\"2024-01-01 05:30:20\";-31.05263;-51.20619;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 05:39:10|29|95|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.761079357137982,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 29,
+            "faction": "",
+            "ts": "2024-01-01 05:39:10",
+            "lat": -25.29423,
+            "lon": -40.54743,
+            "victim": true,
+            "restrictions": [
+              95
+            ],
+            "lineNumber": 407030,
+            "raw": "29;;\"2024-01-01 05:39:10\";-25.29423;-40.54743;true;\"95\""
+          },
+          {
+            "id": 95,
+            "faction": "",
+            "ts": "2024-01-01 05:39:10",
+            "lat": -25.2943,
+            "lon": -40.54747,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 407096,
+            "raw": "95;;\"2024-01-01 05:39:10\";-25.29430;-40.54747;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 06:17:10|12|14|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.820423137099779,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 12,
+            "faction": "8",
+            "ts": "2024-01-01 06:17:10",
+            "lat": -27.49,
+            "lon": -69.56161,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 452613,
+            "raw": "12;8;\"2024-01-01 06:17:10\";-27.49000;-69.56161;false;"
+          },
+          {
+            "id": 14,
+            "faction": "8",
+            "ts": "2024-01-01 06:17:10",
+            "lat": -27.48996,
+            "lon": -69.56171,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 452615,
+            "raw": "14;8;\"2024-01-01 06:17:10\";-27.48996;-69.56171;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 07:03:30|71|93|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.246143438119947,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 71,
+            "faction": "",
+            "ts": "2024-01-01 07:03:30",
+            "lat": -2.89053,
+            "lon": -70.51258,
+            "victim": true,
+            "restrictions": [
+              93
+            ],
+            "lineNumber": 508272,
+            "raw": "71;;\"2024-01-01 07:03:30\";-2.89053;-70.51258;true;\"93\""
+          },
+          {
+            "id": 93,
+            "faction": "",
+            "ts": "2024-01-01 07:03:30",
+            "lat": -2.8906,
+            "lon": -70.51264,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 508294,
+            "raw": "93;;\"2024-01-01 07:03:30\";-2.89060;-70.51264;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 07:17:25|66|73|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.91643141726151,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 66,
+            "faction": "4",
+            "ts": "2024-01-01 07:17:25",
+            "lat": -7.73734,
+            "lon": -53.45341,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 524967,
+            "raw": "66;4;\"2024-01-01 07:17:25\";-7.73734;-53.45341;false;"
+          },
+          {
+            "id": 73,
+            "faction": "4",
+            "ts": "2024-01-01 07:17:25",
+            "lat": -7.73734,
+            "lon": -53.45332,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 524974,
+            "raw": "73;4;\"2024-01-01 07:17:25\";-7.73734;-53.45332;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 07:41:50|81|96|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.943931974205114,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 81,
+            "faction": "9",
+            "ts": "2024-01-01 07:41:50",
+            "lat": -2.33042,
+            "lon": -72.05299,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 554282,
+            "raw": "81;9;\"2024-01-01 07:41:50\";-2.33042;-72.05299;false;"
+          },
+          {
+            "id": 96,
+            "faction": "9",
+            "ts": "2024-01-01 07:41:50",
+            "lat": -2.3305,
+            "lon": -72.05303,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 554297,
+            "raw": "96;9;\"2024-01-01 07:41:50\";-2.33050;-72.05303;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 09:21:00|34|92|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.882444213089872,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 34,
+            "faction": "",
+            "ts": "2024-01-01 09:21:00",
+            "lat": -20.80427,
+            "lon": -59.63247,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 673235,
+            "raw": "34;;\"2024-01-01 09:21:00\";-20.80427;-59.63247;false;"
+          },
+          {
+            "id": 92,
+            "faction": "",
+            "ts": "2024-01-01 09:21:00",
+            "lat": -20.80432,
+            "lon": -59.63256,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 673293,
+            "raw": "92;;\"2024-01-01 09:21:00\";-20.80432;-59.63256;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 10:31:45|16|94|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 11.816542416835725,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 16,
+            "faction": "",
+            "ts": "2024-01-01 10:31:45",
+            "lat": -25.9768,
+            "lon": -53.79359,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 758117,
+            "raw": "16;;\"2024-01-01 10:31:45\";-25.97680;-53.79359;false;"
+          },
+          {
+            "id": 94,
+            "faction": "",
+            "ts": "2024-01-01 10:31:45",
+            "lat": -25.9767,
+            "lon": -53.79355,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 758195,
+            "raw": "94;;\"2024-01-01 10:31:45\";-25.97670;-53.79355;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 13:43:00|4|31|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 7.827423985000053,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 4,
+            "faction": "",
+            "ts": "2024-01-01 13:43:00",
+            "lat": -32.47139,
+            "lon": -60.73971,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 987605,
+            "raw": "4;;\"2024-01-01 13:43:00\";-32.47139;-60.73971;false;"
+          },
+          {
+            "id": 31,
+            "faction": "",
+            "ts": "2024-01-01 13:43:00",
+            "lat": -32.47137,
+            "lon": -60.73979,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 987632,
+            "raw": "31;;\"2024-01-01 13:43:00\";-32.47137;-60.73979;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 15:44:45|51|67|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.157784560888729,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 51,
+            "faction": "",
+            "ts": "2024-01-01 15:44:45",
+            "lat": -11.95749,
+            "lon": -71.20588,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 1133752,
+            "raw": "51;;\"2024-01-01 15:44:45\";-11.95749;-71.20588;false;"
+          },
+          {
+            "id": 67,
+            "faction": "",
+            "ts": "2024-01-01 15:44:45",
+            "lat": -11.95757,
+            "lon": -71.2059,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 1133768,
+            "raw": "67;;\"2024-01-01 15:44:45\";-11.95757;-71.20590;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 00:41:45|61|82|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.931116876833585,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 61,
+            "faction": "",
+            "ts": "2024-01-02 00:41:45",
+            "lat": -6.92284,
+            "lon": -70.18028,
+            "victim": true,
+            "restrictions": [
+              82
+            ],
+            "lineNumber": 1778162,
+            "raw": "61;;\"2024-01-02 00:41:45\";-6.92284;-70.18028;true;\"82\""
+          },
+          {
+            "id": 82,
+            "faction": "",
+            "ts": "2024-01-02 00:41:45",
+            "lat": -6.92292,
+            "lon": -70.18032,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 1778183,
+            "raw": "82;;\"2024-01-02 00:41:45\";-6.92292;-70.18032;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 01:46:10|38|39|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 7.623754225673133,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 38,
+            "faction": "6",
+            "ts": "2024-01-02 01:46:10",
+            "lat": -21.86342,
+            "lon": -44.47877,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 1855439,
+            "raw": "38;6;\"2024-01-02 01:46:10\";-21.86342;-44.47877;false;"
+          },
+          {
+            "id": 39,
+            "faction": "6",
+            "ts": "2024-01-02 01:46:10",
+            "lat": -21.86346,
+            "lon": -44.47871,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 1855440,
+            "raw": "39;6;\"2024-01-02 01:46:10\";-21.86346;-44.47871;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 02:08:45|46|63|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.735914077059414,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 46,
+            "faction": "",
+            "ts": "2024-01-02 02:08:45",
+            "lat": -14.87423,
+            "lon": -52.99292,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 1882547,
+            "raw": "46;;\"2024-01-02 02:08:45\";-14.87423;-52.99292;false;"
+          },
+          {
+            "id": 63,
+            "faction": "",
+            "ts": "2024-01-02 02:08:45",
+            "lat": -14.87422,
+            "lon": -52.99283,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 1882564,
+            "raw": "63;;\"2024-01-02 02:08:45\";-14.87422;-52.99283;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 02:25:55|33|68|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.648158130875203,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 33,
+            "faction": "",
+            "ts": "2024-01-02 02:25:55",
+            "lat": -21.00877,
+            "lon": -62.29058,
+            "victim": true,
+            "restrictions": [
+              68
+            ],
+            "lineNumber": 1903134,
+            "raw": "33;;\"2024-01-02 02:25:55\";-21.00877;-62.29058;true;\"68\""
+          },
+          {
+            "id": 68,
+            "faction": "",
+            "ts": "2024-01-02 02:25:55",
+            "lat": -21.0087,
+            "lon": -62.29065,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 1903169,
+            "raw": "68;;\"2024-01-02 02:25:55\";-21.00870;-62.29065;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 03:37:15|44|76|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.777441703802987,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 44,
+            "faction": "",
+            "ts": "2024-01-02 03:37:15",
+            "lat": -17.34597,
+            "lon": -58.37728,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 1988745,
+            "raw": "44;;\"2024-01-02 03:37:15\";-17.34597;-58.37728;false;"
+          },
+          {
+            "id": 76,
+            "faction": "",
+            "ts": "2024-01-02 03:37:15",
+            "lat": -17.34595,
+            "lon": -58.37736,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 1988777,
+            "raw": "76;;\"2024-01-02 03:37:15\";-17.34595;-58.37736;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 08:58:20|69|74|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.032083865025072,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 69,
+            "faction": "",
+            "ts": "2024-01-02 08:58:20",
+            "lat": -10.23587,
+            "lon": -38.81275,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2374070,
+            "raw": "69;;\"2024-01-02 08:58:20\";-10.23587;-38.81275;false;"
+          },
+          {
+            "id": 74,
+            "faction": "",
+            "ts": "2024-01-02 08:58:20",
+            "lat": -10.23585,
+            "lon": -38.81267,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2374075,
+            "raw": "74;;\"2024-01-02 08:58:20\";-10.23585;-38.81267;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 12:33:10|7|10|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.895594132018019,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 7,
+            "faction": "",
+            "ts": "2024-01-02 12:33:10",
+            "lat": -32.27891,
+            "lon": -47.86654,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2631808,
+            "raw": "7;;\"2024-01-02 12:33:10\";-32.27891;-47.86654;false;"
+          },
+          {
+            "id": 10,
+            "faction": "",
+            "ts": "2024-01-02 12:33:10",
+            "lat": -32.27883,
+            "lon": -47.86654,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2631811,
+            "raw": "10;;\"2024-01-02 12:33:10\";-32.27883;-47.86654;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 12:52:20|64|65|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.090823582921331,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 64,
+            "faction": "",
+            "ts": "2024-01-02 12:52:20",
+            "lat": -6.80436,
+            "lon": -59.16746,
+            "victim": true,
+            "restrictions": [
+              65
+            ],
+            "lineNumber": 2654865,
+            "raw": "64;;\"2024-01-02 12:52:20\";-6.80436;-59.16746;true;\"65\""
+          },
+          {
+            "id": 65,
+            "faction": "",
+            "ts": "2024-01-02 12:52:20",
+            "lat": -6.80443,
+            "lon": -59.16744,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2654866,
+            "raw": "65;;\"2024-01-02 12:52:20\";-6.80443;-59.16744;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 13:21:10|49|91|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.997501677986481,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 49,
+            "faction": "7",
+            "ts": "2024-01-02 13:21:10",
+            "lat": -14.25281,
+            "lon": -41.3953,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2689450,
+            "raw": "49;7;\"2024-01-02 13:21:10\";-14.25281;-41.39530;false;"
+          },
+          {
+            "id": 91,
+            "faction": "7",
+            "ts": "2024-01-02 13:21:10",
+            "lat": -14.25289,
+            "lon": -41.39536,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2689492,
+            "raw": "91;7;\"2024-01-02 13:21:10\";-14.25289;-41.39536;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 13:22:20|48|86|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.874810022764105,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 48,
+            "faction": "",
+            "ts": "2024-01-02 13:22:20",
+            "lat": -16.55302,
+            "lon": -43.66412,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2690849,
+            "raw": "48;;\"2024-01-02 13:22:20\";-16.55302;-43.66412;false;"
+          },
+          {
+            "id": 86,
+            "faction": "",
+            "ts": "2024-01-02 13:22:20",
+            "lat": -16.55309,
+            "lon": -43.66408,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2690887,
+            "raw": "86;;\"2024-01-02 13:22:20\";-16.55309;-43.66408;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 13:38:15|5|43|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.080926880183691,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 5,
+            "faction": "",
+            "ts": "2024-01-02 13:38:15",
+            "lat": -32.72252,
+            "lon": -56.82785,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2709906,
+            "raw": "5;;\"2024-01-02 13:38:15\";-32.72252;-56.82785;false;"
+          },
+          {
+            "id": 43,
+            "faction": "",
+            "ts": "2024-01-02 13:38:15",
+            "lat": -32.72259,
+            "lon": -56.8279,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2709944,
+            "raw": "43;;\"2024-01-02 13:38:15\";-32.72259;-56.82790;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 15:11:20|35|37|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.895594131622975,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 35,
+            "faction": "3",
+            "ts": "2024-01-02 15:11:20",
+            "lat": -20.13522,
+            "lon": -57.78782,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2821636,
+            "raw": "35;3;\"2024-01-02 15:11:20\";-20.13522;-57.78782;false;"
+          },
+          {
+            "id": 37,
+            "faction": "3",
+            "ts": "2024-01-02 15:11:20",
+            "lat": -20.1353,
+            "lon": -57.78782,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2821638,
+            "raw": "37;3;\"2024-01-02 15:11:20\";-20.13530;-57.78782;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 15:37:20|15|19|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.363442752553691,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 15,
+            "faction": "",
+            "ts": "2024-01-02 15:37:20",
+            "lat": -28.81693,
+            "lon": -54.75395,
+            "victim": true,
+            "restrictions": [
+              19
+            ],
+            "lineNumber": 2852816,
+            "raw": "15;;\"2024-01-02 15:37:20\";-28.81693;-54.75395;true;\"19\""
+          },
+          {
+            "id": 19,
+            "faction": "",
+            "ts": "2024-01-02 15:37:20",
+            "lat": -28.81701,
+            "lon": -54.75392,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2852820,
+            "raw": "19;;\"2024-01-02 15:37:20\";-28.81701;-54.75392;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 15:48:50|13|41|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.418196728842078,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 13,
+            "faction": "5",
+            "ts": "2024-01-02 15:48:50",
+            "lat": -28.30888,
+            "lon": -63.35975,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2866614,
+            "raw": "13;5;\"2024-01-02 15:48:50\";-28.30888;-63.35975;false;"
+          },
+          {
+            "id": 41,
+            "faction": "5",
+            "ts": "2024-01-02 15:48:50",
+            "lat": -28.30893,
+            "lon": -63.35966,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2866642,
+            "raw": "41;5;\"2024-01-02 15:48:50\";-28.30893;-63.35966;false;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dataset": 7,
+    "events": [
+      {
+        "key": "2024-01-01 01:17:00|69|70|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.964720566372067,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 69,
+            "faction": "",
+            "ts": "2024-01-01 01:17:00",
+            "lat": -11.9953,
+            "lon": -64.44423,
+            "victim": true,
+            "restrictions": [
+              70
+            ],
+            "lineNumber": 110950,
+            "raw": "69;;\"2024-01-01 01:17:00\";-11.99530;-64.44423;true;\"70\""
+          },
+          {
+            "id": 70,
+            "faction": "",
+            "ts": "2024-01-01 01:17:00",
+            "lat": -11.99536,
+            "lon": -64.44415,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 110951,
+            "raw": "70;;\"2024-01-01 01:17:00\";-11.99536;-64.44415;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 04:57:50|17|61|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.031677145030017,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 17,
+            "faction": "8",
+            "ts": "2024-01-01 04:57:50",
+            "lat": -28.3911,
+            "lon": -53.00408,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 428898,
+            "raw": "17;8;\"2024-01-01 04:57:50\";-28.39110;-53.00408;false;"
+          },
+          {
+            "id": 61,
+            "faction": "8",
+            "ts": "2024-01-01 04:57:50",
+            "lat": -28.39112,
+            "lon": -53.00418,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 428942,
+            "raw": "61;8;\"2024-01-01 04:57:50\";-28.39112;-53.00418;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 06:51:45|72|96|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.596360633036134,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 72,
+            "faction": "",
+            "ts": "2024-01-01 06:51:45",
+            "lat": -10.66639,
+            "lon": -55.88295,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 592993,
+            "raw": "72;;\"2024-01-01 06:51:45\";-10.66639;-55.88295;false;"
+          },
+          {
+            "id": 96,
+            "faction": "",
+            "ts": "2024-01-01 06:51:45",
+            "lat": -10.66634,
+            "lon": -55.88301,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 593017,
+            "raw": "96;;\"2024-01-01 06:51:45\";-10.66634;-55.88301;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 07:44:20|43|44|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.057160482214982,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 43,
+            "faction": "",
+            "ts": "2024-01-01 07:44:20",
+            "lat": -20.61363,
+            "lon": -40.06985,
+            "victim": true,
+            "restrictions": [
+              44
+            ],
+            "lineNumber": 668684,
+            "raw": "43;;\"2024-01-01 07:44:20\";-20.61363;-40.06985;true;\"44\""
+          },
+          {
+            "id": 44,
+            "faction": "",
+            "ts": "2024-01-01 07:44:20",
+            "lat": -20.61356,
+            "lon": -40.06983,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 668685,
+            "raw": "44;;\"2024-01-01 07:44:20\";-20.61356;-40.06983;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 10:05:35|10|11|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.895594131227933,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 10,
+            "faction": "",
+            "ts": "2024-01-01 10:05:35",
+            "lat": -31.80186,
+            "lon": -40.3297,
+            "victim": true,
+            "restrictions": [
+              11
+            ],
+            "lineNumber": 872051,
+            "raw": "10;;\"2024-01-01 10:05:35\";-31.80186;-40.32970;true;\"11\""
+          },
+          {
+            "id": 11,
+            "faction": "",
+            "ts": "2024-01-01 10:05:35",
+            "lat": -31.80194,
+            "lon": -40.3297,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 872052,
+            "raw": "11;;\"2024-01-01 10:05:35\";-31.80194;-40.32970;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 10:05:40|10|11|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.214939005179916,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 10,
+            "faction": "",
+            "ts": "2024-01-01 10:05:40",
+            "lat": -31.80199,
+            "lon": -40.3295,
+            "victim": true,
+            "restrictions": [
+              11
+            ],
+            "lineNumber": 872171,
+            "raw": "10;;\"2024-01-01 10:05:40\";-31.80199;-40.32950;true;\"11\""
+          },
+          {
+            "id": 11,
+            "faction": "",
+            "ts": "2024-01-01 10:05:40",
+            "lat": -31.80192,
+            "lon": -40.32957,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 872172,
+            "raw": "11;;\"2024-01-01 10:05:40\";-31.80192;-40.32957;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 11:45:00|30|92|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.953622900989245,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 30,
+            "faction": "4",
+            "ts": "2024-01-01 11:45:00",
+            "lat": -23.75674,
+            "lon": -46.88667,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 1015231,
+            "raw": "30;4;\"2024-01-01 11:45:00\";-23.75674;-46.88667;false;"
+          },
+          {
+            "id": 92,
+            "faction": "4",
+            "ts": "2024-01-01 11:45:00",
+            "lat": -23.75682,
+            "lon": -46.88666,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 1015293,
+            "raw": "92;4;\"2024-01-01 11:45:00\";-23.75682;-46.88666;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 16:19:00|50|93|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.232963082525934,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 50,
+            "faction": "",
+            "ts": "2024-01-01 16:19:00",
+            "lat": -16.16014,
+            "lon": -56.10223,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 1409811,
+            "raw": "50;;\"2024-01-01 16:19:00\";-16.16014;-56.10223;false;"
+          },
+          {
+            "id": 93,
+            "faction": "",
+            "ts": "2024-01-01 16:19:00",
+            "lat": -16.16023,
+            "lon": -56.10221,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 1409854,
+            "raw": "93;;\"2024-01-01 16:19:00\";-16.16023;-56.10221;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 18:32:25|63|64|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.713036610599836,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 63,
+            "faction": "",
+            "ts": "2024-01-01 18:32:25",
+            "lat": -13.90738,
+            "lon": -45.49436,
+            "victim": true,
+            "restrictions": [
+              64
+            ],
+            "lineNumber": 1601944,
+            "raw": "63;;\"2024-01-01 18:32:25\";-13.90738;-45.49436;true;\"64\""
+          },
+          {
+            "id": 64,
+            "faction": "",
+            "ts": "2024-01-01 18:32:25",
+            "lat": -13.90742,
+            "lon": -45.49444,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 1601945,
+            "raw": "64;;\"2024-01-01 18:32:25\";-13.90742;-45.49444;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-01 19:09:40|45|46|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.220971470993925,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 45,
+            "faction": "",
+            "ts": "2024-01-01 19:09:40",
+            "lat": -17.43663,
+            "lon": -72.36644,
+            "victim": true,
+            "restrictions": [
+              46
+            ],
+            "lineNumber": 1655566,
+            "raw": "45;;\"2024-01-01 19:09:40\";-17.43663;-72.36644;true;\"46\""
+          },
+          {
+            "id": 46,
+            "faction": "",
+            "ts": "2024-01-01 19:09:40",
+            "lat": -17.43669,
+            "lon": -72.36638,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 1655567,
+            "raw": "46;;\"2024-01-01 19:09:40\";-17.43669;-72.36638;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 00:30:25|34|35|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 7.983540268005128,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 34,
+            "faction": "6",
+            "ts": "2024-01-02 00:30:25",
+            "lat": -21.27454,
+            "lon": -71.62413,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2117435,
+            "raw": "34;6;\"2024-01-02 00:30:25\";-21.27454;-71.62413;false;"
+          },
+          {
+            "id": 35,
+            "faction": "6",
+            "ts": "2024-01-02 00:30:25",
+            "lat": -21.27457,
+            "lon": -71.62406,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2117436,
+            "raw": "35;6;\"2024-01-02 00:30:25\";-21.27457;-71.62406;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 04:20:20|40|41|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.988644543963291,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 40,
+            "faction": "",
+            "ts": "2024-01-02 04:20:20",
+            "lat": -20.23268,
+            "lon": -51.50032,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2448521,
+            "raw": "40;;\"2024-01-02 04:20:20\";-20.23268;-51.50032;false;"
+          },
+          {
+            "id": 41,
+            "faction": "",
+            "ts": "2024-01-02 04:20:20",
+            "lat": -20.23275,
+            "lon": -51.50038,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2448522,
+            "raw": "41;;\"2024-01-02 04:20:20\";-20.23275;-51.50038;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 07:37:15|65|97|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.281253470365389,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 65,
+            "faction": "9",
+            "ts": "2024-01-02 07:37:15",
+            "lat": -14.73963,
+            "lon": -38.80129,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2732106,
+            "raw": "65;9;\"2024-01-02 07:37:15\";-14.73963;-38.80129;false;"
+          },
+          {
+            "id": 97,
+            "faction": "9",
+            "ts": "2024-01-02 07:37:15",
+            "lat": -14.73969,
+            "lon": -38.80123,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2732138,
+            "raw": "97;9;\"2024-01-02 07:37:15\";-14.73969;-38.80123;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 08:57:40|8|9|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.782057422475695,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 8,
+            "faction": "10",
+            "ts": "2024-01-02 08:57:40",
+            "lat": -31.13282,
+            "lon": -45.82298,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2847849,
+            "raw": "8;10;\"2024-01-02 08:57:40\";-31.13282;-45.82298;false;"
+          },
+          {
+            "id": 9,
+            "faction": "10",
+            "ts": "2024-01-02 08:57:40",
+            "lat": -31.13276,
+            "lon": -45.82292,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 2847850,
+            "raw": "9;10;\"2024-01-02 08:57:40\";-31.13276;-45.82292;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 12:55:30|24|25|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.998781323415553,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 24,
+            "faction": "11",
+            "ts": "2024-01-02 12:55:30",
+            "lat": -25.15914,
+            "lon": -68.71103,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 3190345,
+            "raw": "24;11;\"2024-01-02 12:55:30\";-25.15914;-68.71103;false;"
+          },
+          {
+            "id": 25,
+            "faction": "11",
+            "ts": "2024-01-02 12:55:30",
+            "lat": -25.1592,
+            "lon": -68.71109,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 3190346,
+            "raw": "25;11;\"2024-01-02 12:55:30\";-25.15920;-68.71109;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 15:56:15|1|103|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.34794039553211,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 1,
+            "faction": "",
+            "ts": "2024-01-02 15:56:15",
+            "lat": -30.55298,
+            "lon": -70.9946,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 3450602,
+            "raw": "1;;\"2024-01-02 15:56:15\";-30.55298;-70.99460;false;"
+          },
+          {
+            "id": 103,
+            "faction": "",
+            "ts": "2024-01-02 15:56:15",
+            "lat": -30.5529,
+            "lon": -70.99457,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 3450704,
+            "raw": "103;;\"2024-01-02 15:56:15\";-30.55290;-70.99457;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 15:58:20|4|91|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.462493377728103,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 4,
+            "faction": "",
+            "ts": "2024-01-02 15:58:20",
+            "lat": -31.68131,
+            "lon": -62.48441,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 3453605,
+            "raw": "4;;\"2024-01-02 15:58:20\";-31.68131;-62.48441;false;"
+          },
+          {
+            "id": 91,
+            "faction": "",
+            "ts": "2024-01-02 15:58:20",
+            "lat": -31.68131,
+            "lon": -62.48431,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 3453692,
+            "raw": "91;;\"2024-01-02 15:58:20\";-31.68131;-62.48431;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 16:50:55|12|78|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.608613671782104,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 12,
+            "faction": "3",
+            "ts": "2024-01-02 16:50:55",
+            "lat": -26.858,
+            "lon": -71.85378,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 3529333,
+            "raw": "12;3;\"2024-01-02 16:50:55\";-26.85800;-71.85378;false;"
+          },
+          {
+            "id": 78,
+            "faction": "3",
+            "ts": "2024-01-02 16:50:55",
+            "lat": -26.85803,
+            "lon": -71.8537,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 3529399,
+            "raw": "78;3;\"2024-01-02 16:50:55\";-26.85803;-71.85370;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 18:11:45|33|60|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 7.850010521597322,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 33,
+            "faction": "",
+            "ts": "2024-01-02 18:11:45",
+            "lat": -23.64541,
+            "lon": -37.0993,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 3645754,
+            "raw": "33;;\"2024-01-02 18:11:45\";-23.64541;-37.09930;false;"
+          },
+          {
+            "id": 60,
+            "faction": "",
+            "ts": "2024-01-02 18:11:45",
+            "lat": -23.64534,
+            "lon": -37.09931,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 3645781,
+            "raw": "60;;\"2024-01-02 18:11:45\";-23.64534;-37.09931;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 19:02:15|42|68|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 12.24942923972053,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 42,
+            "faction": "7",
+            "ts": "2024-01-02 19:02:15",
+            "lat": -22.4439,
+            "lon": -43.88593,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 3718483,
+            "raw": "42;7;\"2024-01-02 19:02:15\";-22.44390;-43.88593;false;"
+          },
+          {
+            "id": 68,
+            "faction": "7",
+            "ts": "2024-01-02 19:02:15",
+            "lat": -22.4438,
+            "lon": -43.88588,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 3718509,
+            "raw": "68;7;\"2024-01-02 19:02:15\";-22.44380;-43.88588;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 19:24:25|6|7|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.41288577334301,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 6,
+            "faction": "1",
+            "ts": "2024-01-02 19:24:25",
+            "lat": -32.14269,
+            "lon": -53.21803,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 3750367,
+            "raw": "6;1;\"2024-01-02 19:24:25\";-32.14269;-53.21803;false;"
+          },
+          {
+            "id": 7,
+            "faction": "1",
+            "ts": "2024-01-02 19:24:25",
+            "lat": -32.14265,
+            "lon": -53.21793,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 3750368,
+            "raw": "7;1;\"2024-01-02 19:24:25\";-32.14265;-53.21793;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-02 22:02:30|32|84|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 11.84353704276157,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 32,
+            "faction": "",
+            "ts": "2024-01-02 22:02:30",
+            "lat": -26.18014,
+            "lon": -40.37073,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 3978033,
+            "raw": "32;;\"2024-01-02 22:02:30\";-26.18014;-40.37073;false;"
+          },
+          {
+            "id": 84,
+            "faction": "",
+            "ts": "2024-01-02 22:02:30",
+            "lat": -26.18018,
+            "lon": -40.37062,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 3978085,
+            "raw": "84;;\"2024-01-02 22:02:30\";-26.18018;-40.37062;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-03 00:15:05|90|102|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.94058290174209,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 90,
+            "faction": "",
+            "ts": "2024-01-03 00:15:05",
+            "lat": -2.79105,
+            "lon": -69.52262,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 4169011,
+            "raw": "90;;\"2024-01-03 00:15:05\";-2.79105;-69.52262;false;"
+          },
+          {
+            "id": 102,
+            "faction": "",
+            "ts": "2024-01-03 00:15:05",
+            "lat": -2.79109,
+            "lon": -69.52253,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 4169023,
+            "raw": "102;;\"2024-01-03 00:15:05\";-2.79109;-69.52253;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-03 01:12:20|73|74|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 11.592788516380395,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 73,
+            "faction": "",
+            "ts": "2024-01-03 01:12:20",
+            "lat": -10.62421,
+            "lon": -49.27558,
+            "victim": true,
+            "restrictions": [
+              74
+            ],
+            "lineNumber": 4251434,
+            "raw": "73;;\"2024-01-03 01:12:20\";-10.62421;-49.27558;true;\"74\""
+          },
+          {
+            "id": 74,
+            "faction": "",
+            "ts": "2024-01-03 01:12:20",
+            "lat": -10.62431,
+            "lon": -49.27555,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 4251435,
+            "raw": "74;;\"2024-01-03 01:12:20\";-10.62431;-49.27555;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-03 01:55:15|39|87|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 12.614406571567478,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 39,
+            "faction": "",
+            "ts": "2024-01-03 01:55:15",
+            "lat": -22.37716,
+            "lon": -55.6561,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 4313200,
+            "raw": "39;;\"2024-01-03 01:55:15\";-22.37716;-55.65610;false;"
+          },
+          {
+            "id": 87,
+            "faction": "",
+            "ts": "2024-01-03 01:55:15",
+            "lat": -22.37705,
+            "lon": -55.65613,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 4313248,
+            "raw": "87;;\"2024-01-03 01:55:15\";-22.37705;-55.65613;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-03 03:19:25|28|62|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 11.16415030900085,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 28,
+            "faction": "",
+            "ts": "2024-01-03 03:19:25",
+            "lat": -26.21643,
+            "lon": -56.12621,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 4434389,
+            "raw": "28;;\"2024-01-03 03:19:25\";-26.21643;-56.12621;false;"
+          },
+          {
+            "id": 62,
+            "faction": "",
+            "ts": "2024-01-03 03:19:25",
+            "lat": -26.21653,
+            "lon": -56.12622,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 4434423,
+            "raw": "62;;\"2024-01-03 03:19:25\";-26.21653;-56.12622;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-03 07:14:05|20|94|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.868021772626301,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 20,
+            "faction": "",
+            "ts": "2024-01-03 07:14:05",
+            "lat": -28.13969,
+            "lon": -42.41137,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 4772301,
+            "raw": "20;;\"2024-01-03 07:14:05\";-28.13969;-42.41137;false;"
+          },
+          {
+            "id": 94,
+            "faction": "",
+            "ts": "2024-01-03 07:14:05",
+            "lat": -28.13968,
+            "lon": -42.41147,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 4772375,
+            "raw": "94;;\"2024-01-03 07:14:05\";-28.13968;-42.41147;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-03 08:14:50|23|106|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 9.048454625155362,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 23,
+            "faction": "",
+            "ts": "2024-01-03 08:14:50",
+            "lat": -23.48488,
+            "lon": -71.79764,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 4859784,
+            "raw": "23;;\"2024-01-03 08:14:50\";-23.48488;-71.79764;false;"
+          },
+          {
+            "id": 106,
+            "faction": "",
+            "ts": "2024-01-03 08:14:50",
+            "lat": -23.48483,
+            "lon": -71.79757,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 4859867,
+            "raw": "106;;\"2024-01-03 08:14:50\";-23.48483;-71.79757;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-03 08:40:30|5|52|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.632715419015263,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 5,
+            "faction": "",
+            "ts": "2024-01-03 08:40:30",
+            "lat": -31.95677,
+            "lon": -59.16447,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 4896726,
+            "raw": "5;;\"2024-01-03 08:40:30\";-31.95677;-59.16447;false;"
+          },
+          {
+            "id": 52,
+            "faction": "",
+            "ts": "2024-01-03 08:40:30",
+            "lat": -31.95682,
+            "lon": -59.16454,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 4896773,
+            "raw": "52;;\"2024-01-03 08:40:30\";-31.95682;-59.16454;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-03 12:05:45|22|114|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 11.24843496328737,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 22,
+            "faction": "",
+            "ts": "2024-01-03 12:05:45",
+            "lat": -28.56659,
+            "lon": -34.99603,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 5192303,
+            "raw": "22;;\"2024-01-03 12:05:45\";-28.56659;-34.99603;false;"
+          },
+          {
+            "id": 114,
+            "faction": "",
+            "ts": "2024-01-03 12:05:45",
+            "lat": -28.56656,
+            "lon": -34.99614,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 5192395,
+            "raw": "114;;\"2024-01-03 12:05:45\";-28.56656;-34.99614;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-03 13:08:00|31|59|protetiva",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 12.007043304784148,
+        "independentType": "protetiva",
+        "sourcePositions": [
+          {
+            "id": 31,
+            "faction": "",
+            "ts": "2024-01-03 13:08:00",
+            "lat": -26.13213,
+            "lon": -44.88036,
+            "victim": true,
+            "restrictions": [
+              59
+            ],
+            "lineNumber": 5281952,
+            "raw": "31;;\"2024-01-03 13:08:00\";-26.13213;-44.88036;true;\"59\""
+          },
+          {
+            "id": 59,
+            "faction": "",
+            "ts": "2024-01-03 13:08:00",
+            "lat": -26.13219,
+            "lon": -44.88026,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 5281980,
+            "raw": "59;;\"2024-01-03 13:08:00\";-26.13219;-44.88026;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-03 16:32:00|67|95|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 10.242495098554015,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 67,
+            "faction": "2",
+            "ts": "2024-01-03 16:32:00",
+            "lat": -11.24121,
+            "lon": -71.27917,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 5575748,
+            "raw": "67;2;\"2024-01-03 16:32:00\";-11.24121;-71.27917;false;"
+          },
+          {
+            "id": 95,
+            "faction": "2",
+            "ts": "2024-01-03 16:32:00",
+            "lat": -11.24112,
+            "lon": -71.27915,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 5575776,
+            "raw": "95;2;\"2024-01-03 16:32:00\";-11.24112;-71.27915;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-03 17:32:30|29|111|generico",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 12.089195197686035,
+        "independentType": "generico",
+        "sourcePositions": [
+          {
+            "id": 29,
+            "faction": "",
+            "ts": "2024-01-03 17:32:30",
+            "lat": -24.95316,
+            "lon": -49.66589,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 5662830,
+            "raw": "29;;\"2024-01-03 17:32:30\";-24.95316;-49.66589;false;"
+          },
+          {
+            "id": 111,
+            "faction": "",
+            "ts": "2024-01-03 17:32:30",
+            "lat": -24.9531,
+            "lon": -49.66579,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 5662912,
+            "raw": "111;;\"2024-01-03 17:32:30\";-24.95310;-49.66579;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-03 17:46:45|53|107|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 11.608065040532876,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 53,
+            "faction": "5",
+            "ts": "2024-01-03 17:46:45",
+            "lat": -18.33953,
+            "lon": -44.75178,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 5683374,
+            "raw": "53;5;\"2024-01-03 17:46:45\";-18.33953;-44.75178;false;"
+          },
+          {
+            "id": 107,
+            "faction": "5",
+            "ts": "2024-01-03 17:46:45",
+            "lat": -18.33959,
+            "lon": -44.75187,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 5683428,
+            "raw": "107;5;\"2024-01-03 17:46:45\";-18.33959;-44.75187;false;"
+          }
+        ]
+      },
+      {
+        "key": "2024-01-03 21:19:05|98|99|faccao",
+        "approved": true,
+        "issues": [],
+        "independentDistance": 8.463354318711312,
+        "independentType": "faccao",
+        "sourcePositions": [
+          {
+            "id": 98,
+            "faction": "12",
+            "ts": "2024-01-03 21:19:05",
+            "lat": -5.00338,
+            "lon": -41.81299,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 5989179,
+            "raw": "98;12;\"2024-01-03 21:19:05\";-5.00338;-41.81299;false;"
+          },
+          {
+            "id": 99,
+            "faction": "12",
+            "ts": "2024-01-03 21:19:05",
+            "lat": -5.00331,
+            "lon": -41.81302,
+            "victim": false,
+            "restrictions": [],
+            "lineNumber": 5989180,
+            "raw": "99;12;\"2024-01-03 21:19:05\";-5.00331;-41.81302;false;"
+          }
+        ]
+      }
+    ]
+  }
+]

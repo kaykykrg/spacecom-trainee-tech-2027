@@ -1,0 +1,86 @@
+{
+  "node": "v24.19.0",
+  "results": [
+    {
+      "repetition": 1,
+      "dataset": 1,
+      "algorithm": "reference",
+      "totalMs": 65.4573,
+      "peakRssKiB": 49652,
+      "rssBytes": 50843648,
+      "events": 4
+    },
+    {
+      "repetition": 2,
+      "dataset": 1,
+      "algorithm": "reference",
+      "totalMs": 54.8699,
+      "peakRssKiB": 50884,
+      "rssBytes": 52129792,
+      "events": 4
+    },
+    {
+      "repetition": 3,
+      "dataset": 1,
+      "algorithm": "reference",
+      "totalMs": 63.339899999999986,
+      "peakRssKiB": 50672,
+      "rssBytes": 51982336,
+      "events": 4
+    },
+    {
+      "repetition": 1,
+      "dataset": 2,
+      "algorithm": "reference",
+      "totalMs": 164.1591,
+      "peakRssKiB": 57580,
+      "rssBytes": 57253888,
+      "events": 6
+    },
+    {
+      "repetition": 2,
+      "dataset": 2,
+      "algorithm": "reference",
+      "totalMs": 173.9638,
+      "peakRssKiB": 57452,
+      "rssBytes": 57569280,
+      "events": 6
+    },
+    {
+      "repetition": 3,
+      "dataset": 2,
+      "algorithm": "reference",
+      "totalMs": 177.46339999999998,
+      "peakRssKiB": 58196,
+      "rssBytes": 57778176,
+      "events": 6
+    },
+    {
+      "repetition": 1,
+      "dataset": 3,
+      "algorithm": "reference",
+      "totalMs": 605.1113,
+      "peakRssKiB": 71312,
+      "rssBytes": 70856704,
+      "events": 10
+    },
+    {
+      "repetition": 2,
+      "dataset": 3,
+      "algorithm": "reference",
+      "totalMs": 593.2759,
+      "peakRssKiB": 68016,
+      "rssBytes": 67796992,
+      "events": 10
+    },
+    {
+      "repetition": 3,
+      "dataset": 3,
+      "algorithm": "reference",
+      "totalMs": 602.2914000000001,
+      "peakRssKiB": 68752,
+      "rssBytes": 68124672,
+      "events": 10
+    }
+  ]
+}

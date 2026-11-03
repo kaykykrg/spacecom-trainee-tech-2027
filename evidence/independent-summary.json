@@ -1,0 +1,17 @@
+{
+  "complete": true,
+  "pass": true,
+  "datasets": 7,
+  "totalRecords": 21530020,
+  "totalWindows": 203417,
+  "totalPairs": 1163510590,
+  "auditedEvents": 118,
+  "expectedEvents": 118,
+  "confirmedFalsePositives": 0,
+  "confirmedFalseNegatives": 0,
+  "classificationDifferences": 0,
+  "suspectEvents": 0,
+  "duplicatePairs": 0,
+  "testsPassed": 43,
+  "originalFilesUnchanged": true
+}

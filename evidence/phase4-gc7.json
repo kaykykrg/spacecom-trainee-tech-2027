@@ -1,0 +1,29 @@
+{
+  "mode": "gc",
+  "events": 35,
+  "totalMs": 24240.3862,
+  "peakRssKiB": 173552,
+  "wallMs": 24240.5267,
+  "cpuUserMs": 22484,
+  "cpuSystemMs": 750,
+  "heapBefore": {
+    "rss": 45293568,
+    "heapTotal": 8175616,
+    "heapUsed": 5848240,
+    "external": 2479380,
+    "arrayBuffers": 143683
+  },
+  "memory": {
+    "rss": 177778688,
+    "heapTotal": 146849792,
+    "heapUsed": 60439400,
+    "external": 3485440,
+    "arrayBuffers": 1147497
+  },
+  "gc": {
+    "count": 1047,
+    "totalMs": 388.7068002820015,
+    "maxMs": 54.886599987745285
+  },
+  "sha256": "325e3182d675bb4c77e75cc20cc3263cf88c06a8b0faace80f16d05152a44040"
+}

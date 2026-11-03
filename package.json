@@ -1,0 +1,19 @@
+{
+  "name": "spacecom-encontros",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/reference.test.mjs tests/sweep.test.mjs tests/output.test.mjs audit/phase2_5/adversarial.test.mjs tests/timestamp-cache.test.mjs",
+    "validate": "node scripts/verify-delivery.mjs outputs",
+    "validate:official": "node src/validate-official.mjs",
+    "download": "node scripts/download-inputs.mjs",
+    "reproduce": "node scripts/reproduce.mjs",
+    "benchmark": "node benchmarks/final.mjs",
+    "audit": "node scripts/audit-all.mjs",
+    "benchmark:ab": "node benchmarks/phase4.mjs"
+  },
+  "engines": {
+    "node": ">=24.22.2 <25"
+  }
+}

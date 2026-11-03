@@ -1,0 +1,17 @@
+import { runOptimized } from './baseline-runner.mjs';
+import { readFile, mkdir, writeFile } from 'node:fs/promises';
+import { createHash } from 'node:crypto';
+import { PerformanceObserver } from 'node:perf_hooks';
+const [input, output, mode='baseline', report] = process.argv.slice(2);
+let gcCount=0,gcMs=0,gcMaxMs=0;
+const observer=mode==='gc'?new PerformanceObserver(list=>{for(const e of list.getEntries()){gcCount++;gcMs+=e.duration;gcMaxMs=Math.max(gcMaxMs,e.duration);}}):null;
+observer?.observe({entryTypes:['gc']});
+const run=mode==='b'?(await import('../src/optimized-runner.mjs')).runOptimized:runOptimized;
+const before=process.cpuUsage(), heapBefore=process.memoryUsage(),start=performance.now();
+const result=await run(input,output);
+const wallMs=performance.now()-start,cpu=process.cpuUsage(before),memory=process.memoryUsage();
+await new Promise(resolve=>setImmediate(resolve));observer?.disconnect();
+const sha256=createHash('sha256').update(await readFile(output)).digest('hex');
+const data={mode,...result,wallMs,cpuUserMs:cpu.user/1000,cpuSystemMs:cpu.system/1000,heapBefore, memory, gc:observer?{count:gcCount,totalMs:gcMs,maxMs:gcMaxMs}:undefined,sha256};
+if(report)await writeFile(report,JSON.stringify(data,null,2));
+console.log(JSON.stringify(data));

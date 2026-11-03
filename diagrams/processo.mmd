@@ -1,0 +1,24 @@
+flowchart TD
+  cli["CLI: input, output e modo"] --> temp["Abrir temporário exclusivo"]
+  temp --> reader["Ler e validar sete campos; reutilizar somente timestamp já validado no parser"]
+  reader --> order{"Timestamp não decrescente?"}
+  order -->|Não| failure["Fechar e remover temporário; preservar saída anterior"]
+  order -->|Sim| group["Agrupar timestamp idêntico; incluir última janela no EOF"]
+  group --> unique{"IDs únicos na janela?"}
+  unique -->|Não| failure
+  unique -->|Sim| mode{"Modo de detecção"}
+  mode -->|Padrão| sweep["Ordenar cópia por latitude; filtrar faixa conservadora"]
+  mode -->|Referência| brute["Enumerar todos os pares i menor que j"]
+  sweep --> rule["Classificação exclusiva"]
+  brute --> rule
+  rule --> eligible{"Par elegível?"}
+  eligible -->|Não| next["Próximo par ou janela"]
+  eligible -->|Sim| geo["Haversine com R = 6371000 m"]
+  geo --> limit{"Distância menor que 20 m?"}
+  limit -->|Não| next
+  limit -->|Sim| write["JSON.stringify e escrita aguardada por evento"]
+  write --> next
+  next --> complete{"Fim dos dados?"}
+  complete -->|Não| reader
+  complete -->|Sim| finish["Fechar array, sync, fechar arquivo e rename"]
+  finish --> validate["Verificação de entrega separada: hash, esquema e semântica"]

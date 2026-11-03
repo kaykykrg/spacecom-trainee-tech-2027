@@ -1,0 +1,23 @@
+{
+  "mode": "writing",
+  "events": 27,
+  "writeSyncMs": 8.209200000002866,
+  "wallMs": 15869.6351,
+  "cpuUserMs": 14875,
+  "cpuSystemMs": 594,
+  "heapBefore": {
+    "rss": 41828352,
+    "heapTotal": 8175616,
+    "heapUsed": 5862832,
+    "external": 2479380,
+    "arrayBuffers": 143683
+  },
+  "memory": {
+    "rss": 175947776,
+    "heapTotal": 143966208,
+    "heapUsed": 27773200,
+    "external": 2989684,
+    "arrayBuffers": 651741
+  },
+  "sha256": "1b71d65ffee707d818d30b8767ad4a6883024494a9d27e0efe6c1a5053005201"
+}

@@ -1,0 +1,17 @@
+{
+  "records": 12000000,
+  "groups": 100000,
+  "pairs": 6843,
+  "haversine": 6229,
+  "latitudeChecks": 11906831,
+  "victims": 700000,
+  "emptyFactions": 9600000,
+  "emptyRestrictions": 11300000,
+  "restrictionIds": 700000,
+  "parseMs": 16138.480300000007,
+  "groupDetectMs": 2862.7308999999896,
+  "readDecodeLineAndWaitMs": 5393.36260000004,
+  "events": 35,
+  "readDecodeOnlyMs": 727.9582000000009,
+  "chars": 638210371
+}

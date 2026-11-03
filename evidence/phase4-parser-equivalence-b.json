@@ -1,0 +1,44 @@
+[
+  {
+    "dataset": 1,
+    "records": 5000,
+    "sha256": "d0acb648ed0132cf562c944d19205477364fca035b0afef3526368e44b499bf4",
+    "equivalent": true
+  },
+  {
+    "dataset": 2,
+    "records": 25000,
+    "sha256": "4f7664c55aa95b8211c25e3ceb2e7070af85b5f7057b3ee3663f6ccba63894f4",
+    "equivalent": true
+  },
+  {
+    "dataset": 3,
+    "records": 100000,
+    "sha256": "92ba26909bb261153ae2e6c9ef1bfbb334ec3af3e5d6dd8dde7ea840d4fff37e",
+    "equivalent": true
+  },
+  {
+    "dataset": 4,
+    "records": 400020,
+    "sha256": "688d25fc705c43e83ed6b74548e3eb792358a457f612416a56809ed9924b76f2",
+    "equivalent": true
+  },
+  {
+    "dataset": 5,
+    "records": 1000000,
+    "sha256": "49f4fe601626f2cbc13d635cd5fdf25b1556ff08f71dc34c03fff08121a93288",
+    "equivalent": true
+  },
+  {
+    "dataset": 6,
+    "records": 8000000,
+    "sha256": "8cad2ac5bbd1821e5a39f86da88bcb71a3fdd7eb71148576d6aef3b120ec2241",
+    "equivalent": true
+  },
+  {
+    "dataset": 7,
+    "records": 12000000,
+    "sha256": "3f14094816efa87fe77cbbcf8cf5bd6df590329df9b6e67c3b08e5654a13a754",
+    "equivalent": true
+  }
+]

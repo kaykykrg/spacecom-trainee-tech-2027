@@ -1,0 +1,58 @@
+[
+  {
+    "file": "dataset1.txt",
+    "records": 5000,
+    "distinct_timestamps": 500,
+    "brute_force_pair_candidates": 22500,
+    "bytes_read": 261093,
+    "sha256": "d0acb648ed0132cf562c944d19205477364fca035b0afef3526368e44b499bf4"
+  },
+  {
+    "file": "dataset2.txt",
+    "records": 25000,
+    "distinct_timestamps": 1250,
+    "brute_force_pair_candidates": 237500,
+    "bytes_read": 1310093,
+    "sha256": "4f7664c55aa95b8211c25e3ceb2e7070af85b5f7057b3ee3663f6ccba63894f4"
+  },
+  {
+    "file": "dataset3.txt",
+    "records": 100000,
+    "distinct_timestamps": 2500,
+    "brute_force_pair_candidates": 1950000,
+    "bytes_read": 5265971,
+    "sha256": "92ba26909bb261153ae2e6c9ef1bfbb334ec3af3e5d6dd8dde7ea840d4fff37e"
+  },
+  {
+    "file": "dataset4.txt",
+    "records": 400020,
+    "distinct_timestamps": 6667,
+    "brute_force_pair_candidates": 11800590,
+    "bytes_read": 21120768,
+    "sha256": "688d25fc705c43e83ed6b74548e3eb792358a457f612416a56809ed9924b76f2"
+  },
+  {
+    "file": "dataset5.txt",
+    "records": 1000000,
+    "distinct_timestamps": 12500,
+    "brute_force_pair_candidates": 39500000,
+    "bytes_read": 52836281,
+    "sha256": "49f4fe601626f2cbc13d635cd5fdf25b1556ff08f71dc34c03fff08121a93288"
+  },
+  {
+    "file": "dataset6.txt",
+    "records": 8000000,
+    "distinct_timestamps": 80000,
+    "brute_force_pair_candidates": 396000000,
+    "bytes_read": 423411895,
+    "sha256": "8cad2ac5bbd1821e5a39f86da88bcb71a3fdd7eb71148576d6aef3b120ec2241"
+  },
+  {
+    "file": "dataset7.txt",
+    "records": 12000000,
+    "distinct_timestamps": 100000,
+    "brute_force_pair_candidates": 714000000,
+    "bytes_read": 638210371,
+    "sha256": "3f14094816efa87fe77cbbcf8cf5bd6df590329df9b6e67c3b08e5654a13a754"
+  }
+]

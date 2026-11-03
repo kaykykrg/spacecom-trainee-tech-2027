@@ -1,0 +1,44 @@
+[
+  {
+    "dataset": 1,
+    "bytes": 261093,
+    "sha256": "d0acb648ed0132cf562c944d19205477364fca035b0afef3526368e44b499bf4",
+    "url": "https://bucket-projeto-trainee.s3.sa-east-1.amazonaws.com/dataset1.txt"
+  },
+  {
+    "dataset": 2,
+    "bytes": 1310093,
+    "sha256": "4f7664c55aa95b8211c25e3ceb2e7070af85b5f7057b3ee3663f6ccba63894f4",
+    "url": "https://bucket-projeto-trainee.s3.sa-east-1.amazonaws.com/dataset2.txt"
+  },
+  {
+    "dataset": 3,
+    "bytes": 5265971,
+    "sha256": "92ba26909bb261153ae2e6c9ef1bfbb334ec3af3e5d6dd8dde7ea840d4fff37e",
+    "url": "https://bucket-projeto-trainee.s3.sa-east-1.amazonaws.com/dataset3.txt"
+  },
+  {
+    "dataset": 4,
+    "bytes": 21120768,
+    "sha256": "688d25fc705c43e83ed6b74548e3eb792358a457f612416a56809ed9924b76f2",
+    "url": "https://bucket-projeto-trainee.s3.sa-east-1.amazonaws.com/dataset4.txt"
+  },
+  {
+    "dataset": 5,
+    "bytes": 52836281,
+    "sha256": "49f4fe601626f2cbc13d635cd5fdf25b1556ff08f71dc34c03fff08121a93288",
+    "url": "https://bucket-projeto-trainee.s3.sa-east-1.amazonaws.com/dataset5.txt"
+  },
+  {
+    "dataset": 6,
+    "bytes": 423411895,
+    "sha256": "8cad2ac5bbd1821e5a39f86da88bcb71a3fdd7eb71148576d6aef3b120ec2241",
+    "url": "https://bucket-projeto-trainee.s3.sa-east-1.amazonaws.com/dataset6.txt"
+  },
+  {
+    "dataset": 7,
+    "bytes": 638210371,
+    "sha256": "3f14094816efa87fe77cbbcf8cf5bd6df590329df9b6e67c3b08e5654a13a754",
+    "url": "https://bucket-projeto-trainee.s3.sa-east-1.amazonaws.com/dataset7.txt"
+  }
+]
